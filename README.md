@@ -1,2 +1,3 @@
-# Anota-es
-Um repositórios com anotações de cursos que estou fazendo
+# Anotações
+
+Esse repositório tem como principal objetivo armazenar minhas anotações que faço utilizando markdown
