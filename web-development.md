@@ -59,16 +59,19 @@ Content-Type: text/html
 
 # HTML
 ## Web Semântica
+
 - Importante para a acessibilidade do usuário
 - Motores de buscas priorizam sites semânticos
 
 ### Citações no HTML
+
 Objetivo | Tag | Comentários
 -|-|-
 Espaço de citação | `<blockquote></blockquote>` |
 Autor da citação | `<cite></cite>`
 
 ### Seções comuns no HTML
+
 Objetivo | Tag | Comentários
 -|-|-
 Cabeçalho|`<header></header>`|Se utilizado no início da página, é visto como global; Pode ser usado dentro de um article, section etc
@@ -78,6 +81,7 @@ Barra lateral|`<aside></aside>`| Conteúdos que possuem relação com o conteúd
 Rodapé|`<footer></footer>`|Normalmente no final da página
 
 ### Listas no HTML
+
 Objetivo | Tag | Comentários
 -|-|-
 Definir lista ordenada|`<ol></ol>`|
@@ -85,6 +89,7 @@ Definir lista não ordenada|`<ul></ul>`|
 Definir item à lista|`<li></li>`|Deve ficar dentro da tag `<ol>` ou `<ul>`
 
 ### Descrições no HTML
+
 Objetivo | Tag | Comentários
 -|-|-
 Description List|`<dl></dl>`|
@@ -92,6 +97,7 @@ Description Title ou Term|`<dt></dt>`|
 Description Data|`<dd></dd>`|
 
 ### Publicações e tópicos no HTML
+
 Objetivo | Tag | Comentários
 -|-|-
 Artigo|`<article></article>`|Focado para conteúdos "genéricos", como publicações, receitas etc
@@ -100,6 +106,7 @@ Imagem|`<figure></figure>`|Usar figura por volta de uma figura, caso precise col
 Descrição da imagem|`<figcaption></figcaption>`
 
 ### Elementos para uso genérico
+
 - Usar esses casos apenas caso não ache um motivo semântico para parte do código/layout
 - Acompanhar esses elementos com alguma Class ou Id, para gerar maior significado
 
@@ -109,7 +116,9 @@ Bloco não semântico|`<div></div>`|
 Texto não semântico|`<span></span>`|
 
 ## Formulário no HTML
+
 ### Form
+
 ```html
 <form action="" method="">
   <fieldset>
@@ -128,12 +137,14 @@ Texto não semântico|`<span></span>`|
 ```
 
 #### Atributos Form
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir um caminho que será redirecionado o form | `action=''`
 Definir o método GET ou POST | `method=""`
 
 #### Atributos Fieldset
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Desabilitar os campos de inserção | `disabled`
@@ -141,11 +152,13 @@ Definir o fieldset à um formulário | `form="idForm"`
 Atribuir um nome para identificar o fieldset | `name=""`
 
 #### Atributos Label
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Conectar a label com a tag de input | `for="idInput"`
 
 #### Atributos Button
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir o tipo de botão | `type=""` | reset, submit, button
@@ -157,6 +170,7 @@ Conectar o botão com o form identificado|`form="idForm"`|
 
 ### Input
 #### Atributos Input
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir tipo de input|`type=""`|data,text,color,number,email,file,password,...
@@ -172,6 +186,7 @@ Definir que input é necessário|`required`|
 
 
 #### Atributos Input type password
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir tamanho mínimo da senha |`minlength=""`|
@@ -183,6 +198,7 @@ Definir tipo de input|`inputmode=""`|numeric...
 Sugerir completar info automaticamente|`autocomplete=""`|on, off, new-password
 
 #### Atributos Input type email
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Permitir 1 ou mais emails separados por vírgulas |`multiple`|
@@ -194,6 +210,7 @@ Definir info caso dê errado o input |`title="Ensira o email de maneira X"`|
 Pegar sugestões de email de um datalist|`list="idDatalist"`|
 
 #### Atributos Input type url
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir tamanho mínimo do url|`minlength=""`|
@@ -205,6 +222,7 @@ Pegar sugestões de url de um datalist|`list="idDatalist"`|
 Habilitar verificação ortográfica|`spellcheck=""`|true,false
 
 #### Atributos Input type file
+
 Sintaxe
 ```html
 <form action="" method="post" enctype="multipart/form-data">
@@ -220,12 +238,14 @@ Lista de arquivo ou arquivos|`files=""`|
 Valor do arquivo a ser enviado|`value=""`|
 
 #### Atributos Input type color
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir cor padrão|`value=""`|RGB
 Definir lista de cores|`list="idDatalist"`|
 
 #### Atributos Input type checkbox
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Deixar o campo marcado como padrão|`checked`|
@@ -233,6 +253,7 @@ Atribuir um nome ao tipo de checkbox|`name=""`
 Atribuir um valor ao checkbox|`value=""`
 
 #### Atributos Input type radio
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Deixar o campo marcado como padrão|`checked`|
@@ -240,6 +261,7 @@ Atribuir um nome ao tipo de checkbox|`name=""`
 Atribuir um valor ao checkbox|`value=""`
 
 #### Atributos Input type search
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir lista de algo a ser pesquisado|`list=""`|
@@ -247,6 +269,7 @@ Definir uso de REGEX|`pattern=""`|
 Usar label dentro do input|`aria-label=""`|
 
 #### Atributos Input type number
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir valor mínimo|`max=100`|
@@ -254,6 +277,7 @@ Definir valor máximo|`max=100`|
 Definir procedência de um número para outro|`step="5"`|
 
 #### Atributos Input type range
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir valor mínimo|`max=100`|
@@ -261,6 +285,7 @@ Definir valor máximo|`max=100`|
 Definir procedência de um número para outro|`step="5"`|
 
 #### Atributos Input type hidden
+
 Útil em situações que serão dados enviados "automaticamente", como IP do user, horário de envio do form etc
 
 Objetivo | Atributo | Comentários e Valores
@@ -268,10 +293,12 @@ Objetivo | Atributo | Comentários e Valores
 Atribuir um valor|`value=""`|
 
 ### Textarea
+
 ```html
 <textarea></textarea>
 ```
 #### Atributos Textarea
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Definir quantidade de linhas|`rows=""`
@@ -281,18 +308,21 @@ Definir tamanho máximo do textarea|`maxlength=""`|
 Embrulhar o texto |`wrap=""`|soft,hard,off
 
 ### Select
+
 ```html
 <select name="carmodel">
   <option value='audi'>A3</option>
 </select>
 ```
 #### Atributos Select
+
 Objetivo | Atributo | Comentários e Valores
 -|-|-
 Permitir 1 ou mais itens selecionados|`multiple`|
 Tamanho do campo |`size=""`|
 
 ### Optgroup
+
 ```html
 <select name="animais">
   <optgroup label="Sudeste">
@@ -308,8 +338,11 @@ Tamanho do campo |`size=""`|
 
 
 ## Usando mídia no HTML
+
 ### Vídeo
+
 #### Sintaxe
+
 ```html
 <video src="./assets/video.mp4" controls>
   <p>Este browser não suporta vídeo, baixe-o aqui</p>
@@ -322,7 +355,9 @@ Tamanho do campo |`size=""`|
   <p>Este browser não suporta vídeo, baixe-o aqui</p>
 </video>
 ```
+
 #### Atributos
+
 Objetivo | Atributo | Comentários
 -|-|-
 Origem do arquivo de vídeo|`src=""`|
@@ -339,7 +374,9 @@ Thumbnail do vídeo |`poster="./imagem.png"`|
 
 ---
 ### Áudio
+
 #### Sintaxe
+
 ```html
 <audio src="./assets/video.mp4" controls>
   <p>Este browser não suporta áudio, baixe-o aqui</p>
@@ -354,6 +391,7 @@ Thumbnail do vídeo |`poster="./imagem.png"`|
 ```
 
 #### Atributos
+
 Objetivo | Atributo | Comentários
 -|-|-
 Origem do arquivo de vídeo|`src=""`|
@@ -365,6 +403,7 @@ Iniciar sem som |`muted`|
 
 ---
 ### Iframe
+
 - Funciona com vídeos do youtube, mapas do google maps e etc
 
 #### Sintaxe
@@ -382,6 +421,7 @@ Iniciar sem som |`muted`|
 ```
 
 #### Atributos
+
 Objetivo | Atributo | Comentários
 -|-|-
 Origem do arquivo de vídeo|`src=""`|
@@ -396,11 +436,14 @@ Permitir ferramentas do site que está sendo buscado o vídeo |`allow`|
 
 ---
 ### Imagens
+
 #### Sintaxe
+
 ```html
 <img src="" alt="">
 ```
 #### Atributos
+
 Objetivo | Atributo | Comentários
 -|-|-
 Origem do arquivo | `src=""` | 
@@ -411,12 +454,15 @@ Definir altura | `heigth=""` |
 
 ---
 ### SVG
+
 #### Sintaxe
+
 ```html
 <svg heigth="400" width="400">
 </svg>
 ```
 #### Atributos
+
 Objetivo | Atributo | Comentários
 -|-|-
 Definir largura | `width=""` |
@@ -425,6 +471,7 @@ Definir altura | `heigth=""` |
 # CSS
 
 ## A cascata de estilização
+
 **O estilo é sempre lido de cima para baixo**
 
 Considera-se os 3 fatores a seguir
@@ -434,10 +481,12 @@ Considera-se os 3 fatores a seguir
 
 ---
 ### Priorização do estilo
+
 inline > tag style > tag link
 
 ---
 ### Especificidade
+
 É um cálculo matemático, onde, cada tipo de seletor e origem do estilo, possuem valores a serem considerados.
 
 - Força 0 -> Universal selector(*), combinator e negation pseudo-class(:not())
@@ -448,6 +497,7 @@ inline > tag style > tag link
 
 ---
 ### A regra !important
+
 + deve evitar seu uso
 + não é considerado uma boa prática
 + ignora a regra de priorização de estilo
@@ -458,6 +508,7 @@ inline > tag style > tag link
 + Inicia com o sinal de '@', seguido de um identificados
 
 ### Identificadores
+
 + @import - Adiciona um CSS Externo
 + @media - Regras condicionais de acordo com o dispositivo
 + @font-face - Fontes externas
@@ -472,6 +523,7 @@ inline > tag style > tag link
 ```
 
 ## Shorthand
+
 + Junta propriedades em uma só linha
 + Resumido
 + Melhora na legibilidade
@@ -522,7 +574,9 @@ font: italic bold 2em/2 Helvetica, Arial
 ```
 
 ## Unidades de medida no CSS
+
 ### Unidades comuns
+
 Tipo | Exemplos
 -|-
 length (distância)|`px, em, rem, vw, vh`
@@ -531,6 +585,7 @@ time (tempo)|`s, ms`
 resolution (resolução)|`dpi`
 
 ### Distâncias absolutas
+
 > Utilizar px como preferência
 
 Unidade | Nome | Comentários
@@ -540,6 +595,7 @@ Unidade | Nome | Comentários
 `px`|Pixels|
 
 ### Distâncias Relativas
+
 > Maior adaptação aos diferentes tipos de tela
 
 Unidade | Relativo à | Comentários
@@ -551,7 +607,9 @@ Unidade | Relativo à | Comentários
 `%`|Valor do pai|
 
 ## Selectors e Combinators
+
 ### Seletor de Atributo
+
 ```css
 [atributeName] {
   color: orange;
@@ -559,6 +617,7 @@ Unidade | Relativo à | Comentários
 ```
 
 ### Seletor de vários elementos
+
 ```css
 [atributeName], h1, .text, #nav-bar {
   color: orange;
@@ -566,6 +625,7 @@ Unidade | Relativo à | Comentários
 ```
 
 ### Combinators
+
 Combinator | Sintaxe | Comentários
 -|-|-
 Descendant Combinator | `body article h2` | Busca um elemento dentro de outro
@@ -574,6 +634,7 @@ Adjacent Sibling Combinator |`h1 + p`|Seleciona somente o elemento do lado direi
 General Sibling Combinator |`h1 ~ p`|Seleciona todos os elementos irmãos
 
 ### Pseudo-classes
+
 É um tipo de selector que irá selecionar um elemento que estiver em um estado específico.
 
 Pseudo-classes começam com 2 pontos seguido do nome da pseudo class `:pseudo-class-name`
@@ -591,6 +652,7 @@ Quando obrigatório |`:required`|
 [Mais informações sobre Pseudo-classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 
 ### Pseudo-elements
+
 Pseudo-classes | Sintaxe | Comentários
 -|-|-
 Aparecer antes do conteúdo | `::before` |
@@ -600,17 +662,20 @@ Aparecer na primeira linha do elemento| `::first-line` |
 [Mais informações sobre Pseudo-elements](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements)
 
 ## Box Model
+
 - Fundamental para fazer layout para a web
 - Maior facilidade para aplicar o CSS
 
 **Propriedades de um Box Model**
 ![Imagem explicando o Box Model](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd19ta9rijs3cxg.cloudfront.net%2Fwp-content%2Fuploads%2F2016%2F03%2F4.png&f=1&nofb=1 =500x)
 ### box-sizing
+
 content-box | border-box
 -|-
 O tamanho da "caixa" é baseada a partir do elemento, não respeitando a largura e a altura definida no código | O tamanho da "caixa" é feito a partir das proporções definidas, respeitando sempre seu tamanho, independente do conteúdo
 
 ### display
+
 block | inline
 -|-
 Ocupa toda a linha, colocando o próximo elemento abaixo desse|Elemento ao lado do outro
@@ -618,12 +683,15 @@ width e height são respeitado|width e height não funcionam
 padding, margin, border irão funcionar normalmente|somente valores horizontais de margin, padding e border
 
 ## Cores
+
 ### Tipos
+
 - background-color (para caixas)
 - color (para textos)
 - border-color (para caixas)
 
 ### Valores
+
 - palavra-chave (blue, red, transparent)
 - hexadecimal (#990011)
 - funções: rgb(), rgba(), hsl(), hsla()
@@ -635,13 +703,16 @@ padding, margin, border irão funcionar normalmente|somente valores horizontais 
 [Mais informações sobre Background](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
 
 ## Page Layouts
+
 ### Grid
+
 - Posicionamento dos elementos dentro da caixa
 - Posicionamento horizontal e vertical ao mesmo temo
 - Pode ser flexível ou fixo
 - Cria espaços para os elementos filhos habitarem
 
 #### Sintaxe CSS do Grid
+
 Ação | Comando | Comentários
 -|-|-
 Definir as áreas do grid no elemento pai | `grid-template-areas: "header header" "main aside" "footer footer"` | Cada \"aspas\" é uma linha (row)
@@ -650,11 +721,13 @@ Definir tamanho da linha de um grid | `grid-template-rows: 40px 1fr 40px`
 Definir tamanho da coluna de um grid | `grid-template-columns: 2fr 1fr`
 
 ### Flexbox
+
 - Permite posicionar os elementos dentro da caixa
 - Controle em uma dimensão (horizontal ou vertical)
 - Alinhamento, direcionamento, ordenar e tamanhos
 
 #### flex-direction 
+
 Direção do conteúdo | Atributo | Comment
 -|-|-
 Esquerda para direita|`flex-direction: row;`|valor padrão
@@ -663,6 +736,7 @@ Direita para esquerda|`flex-direction: row-reverse;`
 Baixo para cima|`flex-direction: column-reverse;`|
 
 #### justify-content
+
 - Baseia-se no eixo principal do flexbox
 
 Alinhar o conteúdo | Atributo | Comment
@@ -675,6 +749,7 @@ Com espaço igual entre os itens, mas diferente com a borda|`justify-content: sp
 Com espaço igual entre os itens e a borda|`justify-content: space-evenly;`
 
 #### align-items
+
 - Baseia-se no eixo oposto do flexbox
 
 Alinhar o conteúdo | Atributo | Comment
@@ -686,6 +761,7 @@ Centralizando os itens no começo do container|`align-items: baseline;`|
 Esticando os itens para o conteúdo do container|`align-items: stretch;`|
 
 #### align-self
+
 - Ajustar o alinhamento de um único elemento
 
 Alinhar o conteúdo | Atributo | Comment
@@ -697,6 +773,7 @@ Centralizando os itens no começo do container|`align-self: baseline;`|
 Esticando os itens para o conteúdo do container|`align-self: stretch;`|
 
 #### flex-wrap
+
 - Alterar a quantidade de linhas que o conteúdo será apresentado
 
 Manter os itens do conteúdo | Atributo | Comment
@@ -706,9 +783,11 @@ Em outras linhas|`flex-wrap: wrap;`|
 Em outras linhas só que no sentido contrário|`flex-wrap: wrap-reverse;`
 
 #### flex-flow
+
 - Shorthand para o uso de `flex-direction` e `flex-flow`
 
 #### align-content
+
 - Usado para alinhar itens em múltiplas linhas do eixo oposto do flex-container
 - Não terá efeito em conteúdo com uma linha
 
@@ -722,6 +801,7 @@ Com espaço entre os itens, sem encostar na borda|`align-content: space-around;`
 Esticando os itens para o conteúdo do container|`align-content: stretch;`|
 
 ### Propriedades dos itens
+
 - **Sempre** referente ao eixo main do item
 
 Definir | Atributo| Comment
@@ -731,6 +811,7 @@ Aumentar o tamanho do item|`flex-grow: 1;`|Proporção, como se fosse o `1fr` do
 Encolher o tamanho do item|`flex-shrink: 1`|Proporção, como se fosse o `1fr` do grid, por padrão vem 1
 
 #### flex shorthand
+
 `flex: flex-grow flex-shrink flex-basis`;
 
 [Mais informações sobre Page Layout](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout)
@@ -740,12 +821,14 @@ Encolher o tamanho do item|`flex-shrink: 1`|Proporção, como se fosse o `1fr` d
 # JavaScript
 
 ## JavaScript Core
+
 + Linguagem de programação que roda no Navegador do usuário (front end)
 	+ Se você clicar em algum botão da página e aparece uma janela. Isso é JavaScript
 	+ Alteração do site ou aplicativo, conforme a interação do User
 + Roda também no computador (back-end)
 
 ## Onde pode ser utilizado?
+
 + Usa-se para criar aplicações web, mobile (React Native) e desktop (Electron)
 + Maioria dos sustes usam JavaScript
 + Linguagem obrigatório para Front End Web
@@ -753,6 +836,7 @@ Encolher o tamanho do item|`flex-shrink: 1`|Proporção, como se fosse o `1fr` d
 ## Variáveis do JavaScript
 
 ### Tipos de variáveis
+
 + number (4, 8.5)
 	+ Infinity
 	+ NaN
@@ -774,6 +858,7 @@ Ele retorna `'string'`
 ## Manipulação de Dados
 
 ### Converter um tipo para outro
+
 Objetivo | Comando | Comentário/Output
 -|-|-
 Converter para String | `String(20)`
@@ -784,6 +869,7 @@ Converter para Número | `Number('2.2')`
 
 ---
 ### Manipulando String
+
 Objetivo | Comando | Comentário/Output
 -|-|-
 Saber tamanho de uma String | `string.length`|
@@ -796,12 +882,14 @@ Retornar uma quantidade n de valores a partir de uma posição|`string.substr(0,
 
 ---
 ### Manipulando Number
+
 Objetivo | Comando | Comentário/Output
 -|-|-
 Define quantidade de casas decimais | `number.toFixed(2)`|
 
 ---
 ### Manipulando variáveis compostas (Arrays)
+
 Objetivo | Comando | Comentário/Output
 -|-|-
 Retornar tamanho do Array|`people.length`|
@@ -832,6 +920,7 @@ Retornar os valores das chaves um objeto|`arr.values()`|
 Retornar um array de arrays contendo nome_prop e valor_prop|`arr.entries()`|
 
 ### Percorrer elementos de um Array (map)
+
 ```js
 const arr = [1,2,3,4,5]
 
@@ -840,6 +929,7 @@ console.log(newArr)
 // [2,4,6,8,10]
 ```
 ### Filtrar elementos de um Array (filter)
+
 ```js
 const arr = [1,2,3,4,5]
 const allValuesGreaterThanTwo = arr.filter(value => value > 2)
@@ -849,6 +939,7 @@ console.log(allValuesGreaterThanTwo)
 ```
 
 ### Transformar um Array em outro tipo de dado (reduce)
+
 ```js
 const arr = [1,2,3,4,5]
 
@@ -859,6 +950,7 @@ arr.reduce((acumulado, value) => acumulado += value, 0)
 ```
 
 ### flat & flatMap
+
 ```js
 // flat
 const arr = [1,2,[3,4]]
@@ -881,6 +973,7 @@ arr.flatMap(value => [[value*2]])
 
 ---
 ### Manipulando Object
+
 ```js
 let user = {
   name: 'Diego',
@@ -891,6 +984,7 @@ const person = {
   name: 'Gustavo'
 }
 ```
+
 Objetivo | Comando | Comentário/Output
 -|-|-
 Alterar a propriedade de um objeto|`user.name = 'Outro nome 1'`|
@@ -905,6 +999,7 @@ Prevenir alterações no Objeto|`Object.freeze(user)`|
 Permitir alterar apenas propriedades existentes de um objeto|`Object.seal(person)`|
 
 ### Input e Output
+
 ```javascript
 // APRESENTA UM 'POP-UP' COM A MENSAGEM
 window.alert('Minha primeira mensagem')
@@ -917,6 +1012,7 @@ window.prompt('Qual é o seu nome?')
 ```
 
 ### Definindo um valor no formato de alguma moeda
+
 ```javascript
 let salario = 1554
 
@@ -936,6 +1032,7 @@ OUTPUT:
 `€ 1.554,50`
 
 ### Template String
+
 ```javascript
 let nome = 'Diego'
 console.log(`O nome é ${nome}`)
@@ -944,6 +1041,7 @@ console.log(`O nome é ${nome}`)
 ## Lidando com erros
 
 ### throw e try...catch
+
 ```js
 function checkName(name = '') {
   if (name === '') {
@@ -961,7 +1059,9 @@ try {
 ```
 
 ## Operadores do JavaScript
+
 ### Aritméticos
+
 + \+ soma
 + \- subtração
 + \* multiplicação
@@ -970,6 +1070,7 @@ try {
 + \** exponenciação
 
 ### Atribuição
+
 + = atribuição simples
 + auto-atribuição 
 	+ n = n + 4
@@ -983,6 +1084,7 @@ try {
 	+ x\-\-
 
 ### Relacionais (resultado bool)
+
 + \> maior
 + \< menor
 + \>= maior ou igual
@@ -993,14 +1095,17 @@ try {
 + !== desigual restrito
 
 ### Lógicos (prioridade: and -> not -> or)
+
 + ! not (negação) 
 + && and (conjunção)
 + || or (disjunção)
 
 ### Ternário
+
 + teste ? true : false
   
 ### Falsy
+
 > Quando um valor é considerado false em contextos que um boolean é obrigatório
 
 + false
@@ -1012,6 +1117,7 @@ try {
 + NaN
 
 ### Truthy
+
 > Quando um valor é considerado true em contextos que um boolean é obrigatório
 
 + true
@@ -1026,6 +1132,7 @@ try {
 + -Infinity
 
 ### Rest operator
+
 - Serve para receber N parâmetros, sendo do tipo Array
 ```js
 const sum = (...rest) {
@@ -1037,6 +1144,7 @@ console.log(sum(1,2,3,4))
 ```
 
 ### Spread operator
+
 - Serve para distribuir N parâmetros para uma função
 - Pode receber
 	- Strings
@@ -1055,6 +1163,7 @@ console.log(sum(1,2,3,4))
 ```
 
 ### Destructing Assignment
+
 ```js
 // Array
 let [apple, banana, orange] = ["Apple", "Banana", "Orange"]
@@ -1080,6 +1189,7 @@ console.log(sum(2))
 ```
 
 ### Symbols e Iterators
+
 - Symbol: gerar um identificador **único**
 - Well known Symbols
 	- iterator
@@ -1108,6 +1218,7 @@ while(true){
 ```
 
 Usando Symbol.interator em um objeto
+
 ```js
 const obj = {
   value: [1,2,3,4],
@@ -1132,6 +1243,7 @@ const it = obj[Symbol.iterator]()
 [Mais informações sobre iterator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Iteration_protocols)
 
 ### Generators
+
 - são funções com pausas e retornam valores
 - a palavra ***yield*** indica a pausa dentro da função
 	- para dar continuidade bastar usar o método next()
@@ -1164,6 +1276,7 @@ console.log(it.next('Outside!'))
 ## Condições
 
 #### Condição Simples
+
 ```javascript
 if(condicao == true){
   console.log(`Positivo`)
@@ -1171,6 +1284,7 @@ if(condicao == true){
 ```
 
 #### Condição Composta
+
 ```javascript
 if(condicao == true){
   console.log(`Positivo`)
@@ -1180,6 +1294,7 @@ if(condicao == true){
 ```
 
 #### Condição Múltipla
+
 ```javascript
 switch(expressão){
   case valor1:
@@ -1196,6 +1311,7 @@ switch(expressão){
 ## Repetições
 
 ### While
+
 ```javascript
 // TESTE LÓGICO NO INÍCIO
 while (true){
@@ -1204,6 +1320,7 @@ while (true){
 ```
 
 ### Do...While
+
 ```javascript
 // TESTE LÓGICO NO FINAL
 do {
@@ -1212,6 +1329,7 @@ do {
 ```
 
 ### For
+
 ```javascript
 for(let i = 0; i < 5; i++){
   console.log(`index [${i}]`)
@@ -1219,6 +1337,7 @@ for(let i = 0; i < 5; i++){
 ```
 
 ### For...in
+
 - Pega as propriedades de um objeto
 - Pega o index de um Array
 
@@ -1236,6 +1355,7 @@ for(let property in person){
 ```
 
 ### For...of
+
 - Pegar os valores de um array ou objeto
 
 ```javascript
@@ -1247,6 +1367,7 @@ for(let name of nomeArray){
 ```
 
 ## Funções
+
 > - São **ações** executadas assim que **chamadas** ou em decorrência de algum **evento**.
 > - Uma **função** pode receber **parâmetros** e retornar um **resultado**.
 
@@ -1261,6 +1382,7 @@ console.log(soma(1))
 ```
 
 ### Arrow Function
+
 Arrow Function com return implícito
 ```javascript
 const arrowFn0 = () => 'seu return aqui'
@@ -1275,6 +1397,7 @@ const arrowFn = () => {
 ```
 
 ### Callbacks e Promises
+
 > Um Callback é uma função passada como um argumento para outra função.
 
 Promises
@@ -1298,6 +1421,7 @@ Retorna a Promise que terminar primeiro|`Promise.race([Promise1(),Promise2()])`
 [Saiba mais sobre Promises](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Using_promises)
 
 ### Fetch
+
 ```js
 // Fetch aceita um segundo parâmentro, onde será identificado o método e o header
 // Por padrão, o Fetch vem com o método GET
@@ -1321,6 +1445,7 @@ fetch('/data.json')
 [Saiba mais sobre Fetch](https://www.w3schools.com/js/js_api_fetch.asp)
 
 ### Async/Await
+
 - Async transforma uma função em uma promise
 	- Consequentemente permite usar .then e .catch
 - Await espera que outras Promises sejam resolvidas
@@ -1348,6 +1473,7 @@ simpleFunction()
 [Saiba mais sobre Async/Await](https://www.w3schools.com/js/js_async.asp)
 
 ### Event Emitter
+
 - Exclusivo do NODE
 
 ```js
@@ -1363,35 +1489,44 @@ emmiter.emit('User logged', {user: 'Diego Braga'})
 ```
 
 ## Testes
+
 ### TDD (Test Driven Development)
+
 Consiste em desenvolver o teste antes do código ser criado, testando e refatorando em pequenos ciclos
 
 #### Etapas
+
 - Escrita do Teste
 - Escrita do Código
 - Refatoração
 
 #### Vantagens
+
 - Feedback rápido
 - Maior segurança em alteração e novas funcionalidades
 - Código mais limpo
 - Produtividade
 
 ### BDD (Behavior Driven Development)
+
 Juntar regra de negócio com linguagem de programação
 
 #### Pilares
+
 - Testes
 - Documentação
 - Exemplos
 
 #### Vantagens
+
 - Compartilhamento de conhecimento
 - Documentação dinâmica
 - Visão do todo
 
 ### Ferramentas de Teste
+
 #### Mocha
+
 1. Instalar a dependência como desenvolvedor
 ```bash
 npm install --save-dev mocha
@@ -1433,14 +1568,17 @@ describe("Math Class", function(){
 [Saber mais sobre o Mocha](https://mochajs.org/)
 
 #### Chai
+
 Serve para substituir o "assert" do node, agora sendo mais descritiva
 
 1. Instalar a biblioteca como desenvolvedor
+
 ```bash
 npm install --save-dev chai
 ```
 
 Exemplo de Código
+
 ```js
 const assert = require("assert")
 const Math = require("../src/math.js")
@@ -1490,6 +1628,7 @@ describe("Math Class", function(){
 [Saber mais sobre o chai](https://www.chaijs.com/)
 
 #### Sinon
+
 Serve para observar se as funções foram invocadas
 
 1. Instalar a biblioteca como desenvolvedor
@@ -1565,6 +1704,7 @@ describe("Math Class", function(){
 
 ### Debugging
 
+
 #### Console
 
 Ação | Comando | Comentário
@@ -1583,7 +1723,9 @@ Estilizar o console|`console.log('%c log estilizado', 'color: green; font-size? 
 
 ## DOM (Document Object Model)
 
+
 ### Árvore DOM
+
 ```mermaid
 graph TB
 a(window)-->b(location)
@@ -1599,7 +1741,9 @@ body --> tagsBody(tags body)
 ---
 
 ### Selecionando elemento
+
 #### Por Marca
+
 ```javascript
 window.document.getElementsByTagName('p')[0]
 //[index] serve para selecionar o elemento específico, começa em 0
@@ -1607,12 +1751,14 @@ window.document.getElementsByTagName('p')[0]
 ```
 
 #### Por ID
+
 ```javascript
 window.document.getElementById('textoMateria')
 // Retorna um elemento
 ```
 
 #### Por Nome
+
 ```javascript
 window.document.getElementsByName('nomee')[0]
 // [index] serve para selecionar o elemento específico, começa em 0
@@ -1620,6 +1766,7 @@ window.document.getElementsByName('nomee')[0]
 ```
 
 #### Por Classe
+
 ```javascript
 window.document.getElementsByClassName('materia')[0]
 // [index] serve para selecionar o elemento específico, começa em 0, é opcional
@@ -1627,6 +1774,7 @@ window.document.getElementsByClassName('materia')[0]
 ```
 
 #### Por Seletor
+
 ```javascript
 window.document.querySelector('p#textoMateria')
 // Retorna um elemento
@@ -1638,6 +1786,7 @@ window.document.querySelectorAll()
 ---
 
 ### Estilizando via JavaScript
+
 Style
 ```javascript
 // o estilo é como se fosse inline style
@@ -1653,6 +1802,7 @@ element.classList.toggle('darkmode')
 
 ---
 ### Eventos DOM
+
 ```javascript
 let  idArea = document.getElementById('area')
 {/* <div id="area" onmousedown="trocarBackground()" 
@@ -1671,6 +1821,7 @@ idArea.addEventListener('mouseout', voltarBackground())
 Para saber todos os eventos, clique [aqui](https://developer.mozilla.org/pt-BR/docs/Web/Events)
 
 ### Adicionando elementos à DOM
+
 ```javascript
 let elemResField = document.querySelector('#resField')
 
@@ -1688,6 +1839,7 @@ Adicionar elemento como primeiro filho|`elemResField.prepend(img)`
 Adicionar antes de um elemento|`elemResField.insertBefore(divAdd, divReferencia)`
 
 ### Adicionar elementos ao HTML
+
 ```javascript
 document.write(`Linha adicionada via javascript<br/>`)
 // É POSSÍVEL ADICIONAR TAGS HTML
@@ -1696,6 +1848,7 @@ document.write(`<h2>Escrevi um Cabeçalho de nível 2</h2>`
 ```
 
 ### Removendo elementos da DOM
+
 ```javascript
 // PRECISA QUE O ELEMENTO EM QUESTÃO JÁ EXISTA PARA REMOVÊLO
 resField.removeChild(document.querySelector('#resField p'))
@@ -1705,6 +1858,7 @@ resField.innerHTML  =  ``
 ```
 
 ### Manipular Conteúdo
+
 ```js
 // considere as constantes abaixo para a tabela
 const elementList = document.querySelector('#lista')
@@ -1723,6 +1877,7 @@ Pegar atributo|`elementHeader.getAttribute('id')`
 Remover atributo|`elementHeader.removeAttribute('id')`
 
 ### Navegar pelos elementos
+
 ```js
 // considere as constantes abaixo para a tabela
 const body = document.querySelector('body')
@@ -1743,5 +1898,3 @@ Buscar próximo irmão|`header.nextSibling`|Considera os espaços vazios
 Buscar próximo irmão|`header.nextElementSibling`|Desconsidera os espaços vazios
 Buscar irmão anterior|`header.previousSibling`|Considera os espaços vazios
 Buscar irmão anterior|`header.previousElementSibling`|Desconsidera os espaços vazios
-
-
