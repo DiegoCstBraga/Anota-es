@@ -464,7 +464,7 @@ Atributos
 
 Objetivo | Atributo | Comentários
 -|-|-
-Origem do arquivo | `src=""` | 
+Origem do arquivo | `src=""` |
 Substituir a imagem caso ela não carregue|`alt=""`
 Texto que será apresentado ao deixar o mouse em cima da imagem|`title=""` |
 Definir largura | `width=""` |
@@ -585,7 +585,7 @@ Definir tamanho da fonte|`font-size: 12px`|
 Definir espaços entre caracteres|`letter-spacing: 4px`|
 Definir espaços entre palavras|`word-spacing: 4px`|
 Definir espaços entre linhas|`line-height: 1.5`|
-Transformar o texto|`text-transform: uppercase`| 
+Transformar o texto|`text-transform: uppercase`|
 Decorar o texto|`text-decoration: line-through dashed red`|
 Alinhar o texto|`text-align: center`|
 Aplicar sombra no texto|`text-shadow: 1px 1px 1px black`|offset-x \| offset-y \| blur-radius \| color
@@ -1059,7 +1059,8 @@ console.log(salarioReais)
 console.log(salarioDolar)
 console.log(salarioEuros)
 ```
-OUTPUT: 
+
+OUTPUT:
 `R$ 1.554,50`
 `US$ 1.554,50`
 `€ 1.554,50`
@@ -1129,7 +1130,7 @@ try {
 
 #### Lógicos (prioridade: and -> not -> or)
 
-+ ! not (negação) 
++ ! not (negação)
 + && and (conjunção)
 + || or (disjunção)
 
@@ -1438,6 +1439,7 @@ const arrowFn = () => {
 > Um Callback é uma função passada como um argumento para outra função.
 
 Promises
+
 + 3 estados
   + Pending (em execução)
   + Fulfilled (executou sem erros)
@@ -1451,7 +1453,7 @@ const myPromise = new Promise((resolve, reject) => {
 
 Ação|Atributos
 -|-
-Retorna as Promises ao mesmo Tempo|`Promise.all([Promise1(),Promise2()])` 
+Retorna as Promises ao mesmo Tempo|`Promise.all([Promise1(),Promise2()])`
 Retorna a Promise que terminar primeiro|`Promise.race([Promise1(),Promise2()])`
 
 [Saiba mais sobre callbacks](https://www.w3schools.com/js/js_callback.asp)
@@ -1804,7 +1806,7 @@ window.document.getElementById('textoMateria')
 ##### Por Nome
 
 ```javascript
-window.document.getElementsByName('nomee')[0]
+window.document.getElementsByName('nome')[0]
 // [index] serve para selecionar o elemento específico, começa em 0
 // Retorna um HTMLCollection
 ```
@@ -1842,9 +1844,9 @@ document.getElementById("p2").style.color = "blue";
 ClassList
 
 ```javascript
-element.classList.add('darkmode')
-element.classList.remove('darkmode')
-element.classList.toggle('darkmode')
+element.classList.add('darkMode')
+element.classList.remove('darkMode')
+element.classList.toggle('darkMode')
 ```
 
 ---
@@ -1855,7 +1857,7 @@ element.classList.toggle('darkmode')
 let  idArea = document.getElementById('area')
 {/* <div id="area" onmousedown="trocarBackground()" 
 onmouseout='voltarBackground()'>
-	Interaja...
+Interaja...
 </div> */}
 
 // PARA DEIXAR A DIV MAIS ORGANIZADA, VALE A PENA USAR EVENT LISTENER
@@ -1898,7 +1900,7 @@ document.write(`<h2>Escrevi um Cabeçalho de nível 2</h2>`
 #### Removendo elementos da DOM
 
 ```javascript
-// PRECISA QUE O ELEMENTO EM QUESTÃO JÁ EXISTA PARA REMOVÊLO
+// PRECISA QUE O ELEMENTO EM QUESTÃO JÁ EXISTA PARA REMOVÊ-LO
 resField.removeChild(document.querySelector('#resField p'))
 
 // ZERA O ELEMENTO, DIV OU CLASSE
