@@ -505,7 +505,7 @@ switch(expressão){
 ```javascript
 // TESTE LÓGICO NO INÍCIO
 while (true){
-  funcao()
+  fnName()
 }
 ```
 
@@ -514,7 +514,7 @@ while (true){
 ```javascript
 // TESTE LÓGICO NO FINAL
 do {
-  funcao()
+  fnName()
 } while (condição)
 ```
 
@@ -528,8 +528,9 @@ for(let i = 0; i < 5; i++){
 
 ### For...in
 
-+ Pega as propriedades de um objeto
-+ Pega o index de um Array
+> Pega as propriedades de um objeto.
+>
+> Pega o index de um Array.
 
 ```javascript
 let  person = {
@@ -546,7 +547,7 @@ for(let property in person){
 
 ### For...of
 
-+ Pegar os valores de um array ou objeto
+> Pegar os valores de um array ou objeto
 
 ```javascript
 let  nomeArray  = ['João','Paulo','Pedro']
@@ -558,8 +559,9 @@ for(let name of nomeArray){
 
 ## Funções
 
-> + São **ações** executadas assim que **chamadas** ou em decorrência de algum **evento**.
-> + Uma **função** pode receber **parâmetros** e retornar um **resultado**.
+> São **ações** executadas assim que **chamadas** ou em decorrência de algum **evento**.
+>
+> Uma **função** pode receber **parâmetros** e retornar um **resultado**.
 
 ```javascript
 // DEFININDO UM VALOR DO PARÂMETRO CASO NÃO À PASSE
@@ -573,15 +575,15 @@ console.log(soma(1))
 
 ### Arrow Function
 
-Arrow Function com return implícito
-
 ```javascript
-const arrowFn0 = () => 'seu return aqui'
+// Arrow Function com return implícito
+
+const arrowFn = () => 'seu return aqui'
 ```
 
-Arrow Function sem return implícito
-
 ```javascript
+// Arrow Function sem return implícito
+
 const arrowFn = () => {
   // expressão qualquer
   return 'seu return aqui'
@@ -594,10 +596,11 @@ const arrowFn = () => {
 
 Promises
 
-+ 3 estados
-  + Pending (em execução)
-  + Fulfilled (executou sem erros)
-  + Rejected (apresentou algum erro)
+State | Definition
+------|-----------
+Pending | Em execução
+Fulfilled | Executou sem erros
+Rejected | Apresentou algum erro
 
 ```js
 const myPromise = new Promise((resolve, reject) => {
@@ -688,15 +691,15 @@ emmiter.emit('User logged', {user: 'Diego Braga'})
 #### Console
 
 Ação | Comando | Comentário
--|-|-
+-----|---------|-----------
 Apresentar uma mensagem|`console.log('Texto preto')`|
 Apresentar uma mensagem com sinal de alerta|`console.warn('Texto amarelo com sinal de alerta')`|
 Apresentar uma mensagem com sinal de erro|`console.error('Texto vermelho com sinal de erro')`|
 Indicar de onde o código está sendo executado |`console.trace()`|
 Iniciar agrupamento de um número N de mensagens |`console.group('Group Name')`|
 Finalizar agrupamento de um número N de mensagens |`console.groupEnd('Group Name')`|
-Iniciar contagem do tempo de execução|console.time('Timer name')|
-Finalizar contagem do tempo de execução|console.timeEnd('Timer name')|
-Gerar tabela de dados no console|console.table(['Digital Innovation', 'Diego Braga']
+Iniciar contagem do tempo de execução|`console.time('Timer name')`|
+Finalizar contagem do tempo de execução|`console.timeEnd('Timer name')`|
+Gerar tabela de dados no console|`console.table(['Digital Innovation', 'Diego Braga']`
 Retornar uma mensagem do console caso uma condição seja falsa|`console.assert(1 === 2, 'Error')`
 Estilizar o console|`console.log('%c log estilizado', 'color: green; font-size? 20px')`

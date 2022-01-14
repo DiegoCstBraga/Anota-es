@@ -26,17 +26,19 @@ b[(Servidor)]-- Response -->a
 
 ### Pedido (request)
 
-+ Methods
-  + GET (Pegar um recurso)
-  + POST (Criar um recurso)
+Methods | Meaning
+--------|----------
+GET     | Pegar um recurso
+POST    | Criar um recurso
 
 ### Response (resposta)
 
-+ Status Code
-  + 200 - OK
-  + 301 - Redirecionamento
-  + 404 - Recurso não encontrado
-  + 500 - Erro interno de servidor
+Status Code | Meaning
+------------|--------
+200         | OK
+301         | Redirecionamento
+404         | Recurso não encontrado
+500         | Erro interno de servidor
 
 ### Request/Response
 
@@ -54,17 +56,19 @@ b[(Servidor)]-- Response -->a
 
 #### REQUEST MESSAGE
 
+```txt
 GET /index.html HTTP/1.1
 User-Agent: Mozilla/4.0
 Accept: text/html
+```
 
 #### RESPONSE MESSAGE
 
+```txt
 HTTP/1.1 200 OK
 Server: express
 Content-Type: text/html
-
-\<html>...\</html>
+```
 
 ## HTML
 
@@ -76,14 +80,14 @@ Content-Type: text/html
 #### Citações no HTML
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Espaço de citação | `<blockquote></blockquote>` |
 Autor da citação | `<cite></cite>`
 
 #### Sessões comuns no HTML
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Cabeçalho|`<header></header>`|Se utilizado no início da página, é visto como global; Pode ser usado dentro de um article, section etc
 Barra de navegação|`<nav></nav>`| pode ser usado dentro de articles ou globalmente
 Conteúdo principal|`<main></main>`|Conteúdo principal do site
@@ -93,7 +97,7 @@ Rodapé|`<footer></footer>`|Normalmente no final da página
 #### Listas no HTML
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Definir lista ordenada|`<ol></ol>`|
 Definir lista não ordenada|`<ul></ul>`|
 Definir item à lista|`<li></li>`|Deve ficar dentro da tag `<ol>` ou `<ul>`
@@ -101,7 +105,7 @@ Definir item à lista|`<li></li>`|Deve ficar dentro da tag `<ol>` ou `<ul>`
 #### Descrições no HTML
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Description List|`<dl></dl>`|
 Description Title ou Term|`<dt></dt>`|
 Description Data|`<dd></dd>`|
@@ -109,7 +113,7 @@ Description Data|`<dd></dd>`|
 #### Publicações e tópicos no HTML
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Artigo|`<article></article>`|Focado para conteúdos "genéricos", como publicações, receitas etc
 Sessão|`<section></section>`|Geralmente acompanha de um título e depois um conteúdo
 Imagem|`<figure></figure>`|Usar figura por volta de uma figura, caso precise colocar autor, descrição etc
@@ -121,7 +125,7 @@ Descrição da imagem|`<figcaption></figcaption>`
 + Acompanhar esses elementos com alguma Class ou Id, para gerar maior significado
 
 Objetivo | Tag | Comentários
--|-|-
+---------|-----|------------
 Bloco não semântico|`<div></div>`|
 Texto não semântico|`<span></span>`|
 
@@ -134,14 +138,17 @@ Texto não semântico|`<span></span>`|
   <fieldset>
     <legend>Contato</legend>
   </fieldset>
+
   <label for="nome">Nome Completo</label>
   <input id='nome' type='text'/>
   <input type="text" list="fruitsdata" placeholder="Escolha uma fruta"/>
+  
   <datalist id="fruitsdata">
     <option>apple</option>
     <option>pineapple</option>
     <option>banana</option>
   <datalist>
+    
   <button>Enviar</button>
 </form>
 ```
@@ -149,14 +156,14 @@ Texto não semântico|`<span></span>`|
 #### Atributos Form
 
 Objetivo | Atributo | Comentários e Valores
--|-|-
+---------|----------|------------
 Definir um caminho que será redirecionado o form | `action=''`
 Definir o método GET ou POST | `method=""`
 
 #### Atributos Fieldset
 
 Objetivo | Atributo | Comentários e Valores
--|-|-
+---------|----------|------------
 Desabilitar os campos de inserção | `disabled`
 Definir o fieldset à um formulário | `form="idForm"`
 Atribuir um nome para identificar o fieldset | `name=""`
@@ -164,13 +171,13 @@ Atribuir um nome para identificar o fieldset | `name=""`
 #### Atributos Label
 
 Objetivo | Atributo | Comentários e Valores
--|-|-
+---------|----------|------------
 Conectar a label com a tag de input | `for="idInput"`
 
 #### Atributos Button
 
 Objetivo | Atributo | Comentários e Valores
--|-|-
+---------|----------|-------------|-|-
 Definir o tipo de botão | `type=""` | reset, submit, button
 Focar automaticamente o botão |`autofocus`|
 Desabilitar o botão |`disabled`|útil deixar desabilitado enquanto o formulário não estiver preenchido
