@@ -683,7 +683,7 @@ Quando obrigatório |`:required`|
 
 #### Pseudo-elements
 
-Pseudo-classes | Sintaxe | Comentários
+Pseudo-elements | Sintaxe | Comentários
 -|-|-
 Aparecer antes do conteúdo | `::before` |
 Aparecer depois do conteúdo | `::after` |
@@ -838,9 +838,9 @@ Esticando os itens para o conteúdo do container|`align-content: stretch;`|
 
 Definir | Atributo| Comment
 -|-|-
-Largura ou altura|`flex-basis: 50px;`|
 Aumentar o tamanho do item|`flex-grow: 1;`|Proporção, como se fosse o `1fr` do grid
 Encolher o tamanho do item|`flex-shrink: 1`|Proporção, como se fosse o `1fr` do grid, por padrão vem 1
+Largura ou altura|`flex-basis: 50px;`|
 
 ##### flex shorthand
 
