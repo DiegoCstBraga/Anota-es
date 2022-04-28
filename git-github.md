@@ -125,26 +125,26 @@ Conferir as alterações que foram feitas e estão no stage area
 
 ```bash
 git diff --staged
-``
+```
 
 Gerar um SSH
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "diego.cstbraga@gmail.com"
-``
+```
 
 Conferir o SSH gerado
 
 ```bash
 cat ~/.ssh/id_rsa.pub
-``
+```
 
 Ativar SSH no **Windows**
 
 ```bash
 eval `ssh-agent -s`
 ssh-add ~/.ssh/id_rsa
-``
+```
 
 ## Log
 
@@ -152,25 +152,25 @@ Visualizar uma quantidade n de commits
 
 ```bash
 git log -n 5
-``
+```
 
 Visualizar commits a partir de uma data no formato ISO
 
 ```bash
 git log --since=2020-10-01
-``
+```
 
 Visualizar commits antes de uma data no formato ISO
 
 ```bash
 git log --until=2020-10-01
-``
+```
 
 Visualizar commits por autor
 
 ```bash
 git log --author="Diego"
-``
+```
 
 Visualizar commits por palavras específicas
 
