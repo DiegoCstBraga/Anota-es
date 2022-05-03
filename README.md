@@ -5,9 +5,6 @@ Esse repositório tem como principal objetivo armazenar minhas anotações que f
 Para acessá-las, entre no link [https://diegocstbraga.github.io/my-notes](https://diegocstbraga.github.io/my-notes)
 
 ## Tópicos
-
-- [Desenvolvimento Web](./web-development.md)
-- [Command Line 101](./command-line.md)
-- [Git e Github](./git-github.md)
-- [ReactJS](./reactJs.md)
-- [VueJS](./vueJs.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIwMjk4NzUxXX0=
+-->
