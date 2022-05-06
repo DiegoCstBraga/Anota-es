@@ -1,7 +1,9 @@
+# Gerenciamento de tempo
 
+## Por que eu gostaria de ter mais tempo?
 
-
-> Written with [StackEdit](https://stackedit.io/).
+- Fazer mais cursos que desejo para 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTUzNDAxNjQ5OCw3MzA5OTgxMTZdfQ==
 -->
