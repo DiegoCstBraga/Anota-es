@@ -5,7 +5,9 @@
 - Fazer mais cursos que desejo para ser um melhor profissional
 - Praticar meus hobbies como jogar e atividade física
 
-## 4 Pilares da Proatividade
+## Proatividade
+
+### 4 Pilares da Proatividade
 
 - Escolha X Meio Externo
 - Culpa X Responsabilidade
@@ -14,10 +16,13 @@
 	- Reativo = reage à partir da emoção do momento, muitas vezes levando ao arrependimento
 - Influência X Preocupação
 
+### Pontos importantes:
+
 - Escolha ao invés de terceirizar suas escolhas
 - Se responsabilizar pelas coisas que ocorrem independente da culpa de quem seja
-
+- Buscar um comportamento proativo e não reativo na maioria das situações
+- Perder tempo com coisas em que é possível influenciar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTQ4ODYyMSwtODk4MTQzODQzLC04ND
-Y2NDAwNzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk0NTYyMTYxLC04OTgxNDM4NDMsLTg0Nj
+Y0MDA3OCw3MzA5OTgxMTZdfQ==
 -->
