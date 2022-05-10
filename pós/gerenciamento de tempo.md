@@ -4,6 +4,9 @@
 
 - Fazer mais cursos que desejo para ser um melhor profissional
 - Praticar meus hobbies como jogar e atividade física
+
+## Proativi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjY0MDA3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjczOTYxMzIyLC04NDY2NDAwNzgsNzMwOT
+k4MTE2XX0=
 -->
