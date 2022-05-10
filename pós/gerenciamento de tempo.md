@@ -14,7 +14,9 @@ Pilares da proatividade
 - Proativo X Reativo
 	- Proativo = reage a partir dos próprios princípios
 	- Reativo = reage à partir da emoção do momento, muitas vezes levando ao arrependimento
+- Influência X Preocupação
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDczNzQ0OCwtODQ2NjQwMDc4LDczMD
+eyJoaXN0b3J5IjpbLTg5ODE0Mzg0MywtODQ2NjQwMDc4LDczMD
 k5ODExNl19
 -->
