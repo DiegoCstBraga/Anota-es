@@ -21,8 +21,8 @@
 - Escolha ao invés de terceirizar suas escolhas
 - Se responsabilizar pelas coisas que ocorrem independente da culpa de quem seja
 - Buscar um comportamento proativo e não reativo na maioria das situações
-- Perder tempo com coisas em que é possível influenciar
+- Perder tempo com coisas em que é possível influenciar ao invés de coisas em que tem que se preocupar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTYyMTYxLC04OTgxNDM4NDMsLTg0Nj
-Y0MDA3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ0NDA3ODQ1OCwtODk4MTQzODQzLC04ND
+Y2NDAwNzgsNzMwOTk4MTE2XX0=
 -->
