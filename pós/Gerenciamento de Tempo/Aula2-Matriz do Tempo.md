@@ -29,6 +29,7 @@ Importante:
 
 - Relevância (bússola, direção)
 - De dentro para fora
+- Possui relação com seus interesses, valores e prioridades
 
 ## Quadrantes da Matriz de Tempo
 
@@ -55,7 +56,7 @@ Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa s
 Quadrante ideal, serve para executar as atividades do seu interesse sem a pressão do tempo, trazendo um retorno "melhor" e mais saudável.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzQyMjgwMCwtMTA5MzY5ODM3NSwtMT
-Y3MjA1NjYwNywxNDg1MjU3NzkwLDQ2Mzg1ODM1LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNTE1MTgwNjIyLC00NDc0MjI4MDAsLTEwOT
+M2OTgzNzUsLTE2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0NjM4NTgz
+NSw3MzA5OTgxMTZdfQ==
 -->
