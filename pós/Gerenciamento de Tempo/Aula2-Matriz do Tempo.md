@@ -36,24 +36,24 @@ Matriz de Eisenhower (Quadrantes da Matriz de Tempo)
 
 ![Matriz de Eisenhower](https://blog.runrun.it/wp-content/uploads/2014/08/importanteurgente_matriz.png)
 
-### Primeiro Quadrante
+### Primeiro Quadrante - Necessidade
  
 Quadrante onde você tem prazer por ter uma importância para você, mas cansativo por na maioria das vezes ser feito num tempo não desejado ou esperado.
 
-### Terceiro Quadrante
+### Terceiro Quadrante - Decepção
 
 Quadrante relacionado à decepção, pois você executa as demandas por causa das urgências, mas por não ter importância para você, é, certa maneira, um desperdício do tempo.
 
-### Quarto Quadrante
+### Quarto Quadrante - Escapismo
 
-Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente. Também pode ser considerado como o quadrante de ação "zumbi", onde a pe
+Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente. Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa simplesmente está ali por estar, sem ter um motivo por trás.
 
-### Segundo Quadrante
+### Segundo Quadrante - Eficácia
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE2MTMwNjcsLTEwOTM2OTgzNzUsLT
+eyJoaXN0b3J5IjpbLTE1MTcwMTMxNDAsLTEwOTM2OTgzNzUsLT
 E2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0NjM4NTgzNSw3MzA5OTgx
 MTZdfQ==
 -->
