@@ -46,14 +46,16 @@ Quadrante relacionado à decepção, pois você executa as demandas por causa da
 
 ### Quarto Quadrante - Escapismo
 
-Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente. Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa simplesmente está ali por estar, sem ter um motivo por trás.
+Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente.
+
+Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa simplesmente está ali por estar, sem ter um motivo por trás.
 
 ### Segundo Quadrante - Eficácia
 
-
+Quadrante ideal, serve para executar as atividades do seu interesse sem a pressão do tempo, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcwMTMxNDAsLTEwOTM2OTgzNzUsLT
-E2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0NjM4NTgzNSw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbNDM3OTA3NzE1LC0xMDkzNjk4Mzc1LC0xNj
+cyMDU2NjA3LDE0ODUyNTc3OTAsNDYzODU4MzUsNzMwOTk4MTE2
+XX0=
 -->
