@@ -1,7 +1,21 @@
+# Matriz de tempo
 
+## Tipos de metas
 
+Curto Prazo
 
-> Written with [StackEdit](https://stackedit.io/).
+- Relacionado à dia, semana ou mês
+- Objetivos a serem alcançados que irão contribuir ao longo prazo
+
+Médio Prazo
+
+- Relacionado à anos
+- 
+
+Longo Prazo
+
+- Relacionado à vida, legado e sonhos
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjYyNjIwNTE0LDczMDk5ODExNl19
 -->
