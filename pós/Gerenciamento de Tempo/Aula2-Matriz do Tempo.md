@@ -42,7 +42,7 @@ Quadrante onde você tem prazer por ter uma importância para você, mas cansati
 
 ### Terceiro Quadrante
 
-
+Quadrante relacionado à decepção, pois você executa as demandas por causa das urgências, mas por não ter importância para você, é, certa maneira, um desperdício do tempo.
 
 ### Quarto Quadrante
 
@@ -51,6 +51,6 @@ Quadrante onde você tem prazer por ter uma importância para você, mas cansati
 ### Segundo Quadrante
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0Nj
-M4NTgzNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTM2OTgzNzUsLTE2NzIwNTY2MDcsMT
+Q4NTI1Nzc5MCw0NjM4NTgzNSw3MzA5OTgxMTZdfQ==
 -->
