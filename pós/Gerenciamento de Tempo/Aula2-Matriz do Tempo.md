@@ -19,9 +19,18 @@ Longo Prazo
 
 ## Urgente X Importante
 
-Urgente: 
+Urgente
+
+- Tempo
+- De fora para dentro
+- Tempo se impondo à pessoa
+
 Importante:
 
+- Relevância (
+- De dentro para fora
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYwNjYyNjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2ODkwNjAwMDUsNzMwOTk4MTE2XX0=
 -->
