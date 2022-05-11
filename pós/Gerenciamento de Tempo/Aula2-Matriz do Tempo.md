@@ -15,7 +15,13 @@ Médio Prazo
 Longo Prazo
 
 - Relacionado à vida, legado e sonhos
+- Algo que demanda tempo para ser construído/alcançado
+
+## Urgente X Importante
+
+Urgente: 
+Importante:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNjIwNTE0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzMDYwNjYyNjksNzMwOTk4MTE2XX0=
 -->
