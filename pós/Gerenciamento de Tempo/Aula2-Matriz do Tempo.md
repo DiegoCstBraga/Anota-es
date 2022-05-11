@@ -36,10 +36,21 @@ Matriz de Eisenhower (Quadrantes da Matriz de Tempo)
 
 ![Matriz de Eisenhower](https://blog.runrun.it/wp-content/uploads/2014/08/importanteurgente_matriz.png)
 
-- Primeiro Quadrante
-	- Qua
+### Primeiro Quadrante
+ 
+Quadrante onde você tem prazer por ter uma importância para você, mas cansativo por na maioria das vezes ser feito num tempo não desejado ou esperado.
+
+### Terceiro Quadrante
+
+
+
+### Quarto Quadrante
+
+
+
+### Segundo Quadrante
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTQyOTUxLDE0ODUyNTc3OTAsNDYzOD
-U4MzUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0Nj
+M4NTgzNSw3MzA5OTgxMTZdfQ==
 -->
