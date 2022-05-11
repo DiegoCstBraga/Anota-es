@@ -29,8 +29,12 @@ Importante:
 
 - Relevância (bússola, direção)
 - De dentro para fora
-- 
+
+## Quadrantes da Matriz de Tempo
+
+### Primeiro Quadrante - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzODU4MzUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODc1NDE1NTM0LDQ2Mzg1ODM1LDczMDk5OD
+ExNl19
 -->
