@@ -32,9 +32,12 @@ Importante:
 
 ## Quadrantes da Matriz de Tempo
 
+
+![Matriz de Eisenhower](https://blog.runrun.it/wp-content/uploads/2014/08/importanteurgente_matriz.png)
+
 ### Primeiro Quadrante - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NDE1NTM0LDQ2Mzg1ODM1LDczMDk5OD
-ExNl19
+eyJoaXN0b3J5IjpbLTE5NTQ2ODU4MjgsNDYzODU4MzUsNzMwOT
+k4MTE2XX0=
 -->
