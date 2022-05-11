@@ -46,14 +46,14 @@ Quadrante relacionado à decepção, pois você executa as demandas por causa da
 
 ### Quarto Quadrante
 
-Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente. 
+Relacionado como quadrante do escapismo, onde a própria pessoa decide estar ali, não sendo "forçada" externa ou internamente. Também pode ser considerado como o quadrante de ação "zumbi", onde a pe
 
 ### Segundo Quadrante
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY5OTMxMzgsLTEwOTM2OTgzNzUsLT
+eyJoaXN0b3J5IjpbLTIxMjE2MTMwNjcsLTEwOTM2OTgzNzUsLT
 E2NzIwNTY2MDcsMTQ4NTI1Nzc5MCw0NjM4NTgzNSw3MzA5OTgx
 MTZdfQ==
 -->
