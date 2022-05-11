@@ -21,16 +21,16 @@ Longo Prazo
 
 Urgente
 
-- Tempo
+- Tempo (relógio)
 - De fora para dentro
 - Tempo se impondo à pessoa
 
 Importante:
 
-- Relevância (
+- Relevância (bússola, direção)
 - De dentro para fora
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkwNjAwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDYzODU4MzUsNzMwOTk4MTE2XX0=
 -->
