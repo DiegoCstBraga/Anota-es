@@ -36,9 +36,10 @@ Matriz de Eisenhower (Quadrantes da Matriz de Tempo)
 
 ![Matriz de Eisenhower](https://blog.runrun.it/wp-content/uploads/2014/08/importanteurgente_matriz.png)
 
-### Primeiro Quadrante - 
+- Primeiro Quadrante
+	- Qua
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTI1Nzc5MCw0NjM4NTgzNSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMzc1OTQyOTUxLDE0ODUyNTc3OTAsNDYzOD
+U4MzUsNzMwOTk4MTE2XX0=
 -->
