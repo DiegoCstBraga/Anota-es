@@ -52,10 +52,10 @@ Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa s
 
 ### Segundo Quadrante - Eficácia
 
-Quadrante ideal, serve para executar as atividades do seu interesse sem a pressão do tempo, 
+Quadrante ideal, serve para executar as atividades do seu interesse sem a pressão do tempo, trazendo um retorno "melhor" e mais saudável.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3OTA3NzE1LC0xMDkzNjk4Mzc1LC0xNj
-cyMDU2NjA3LDE0ODUyNTc3OTAsNDYzODU4MzUsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTQ0NzQyMjgwMCwtMTA5MzY5ODM3NSwtMT
+Y3MjA1NjYwNywxNDg1MjU3NzkwLDQ2Mzg1ODM1LDczMDk5ODEx
+Nl19
 -->
