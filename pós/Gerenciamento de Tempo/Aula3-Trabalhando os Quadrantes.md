@@ -37,13 +37,13 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 
 - Planejamento semanal como escudo
 - Tarefa que não será executada para atender essa demanda
-- Não usar o **talvez**~~strikethrough text~~
+- Não usar o **talvez**
 
 ### Reduzir Quadrante I
 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM3MjM0ODUsLTIxNDIyNjU4ODAsMT
-c2OTYwMDY5MiwtMTI0ODU0NzcxMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMyNjY3MjA5LC0yMTQyMjY1ODgwLDE3Nj
+k2MDA2OTIsLTEyNDg1NDc3MTMsNzMwOTk4MTE2XX0=
 -->
