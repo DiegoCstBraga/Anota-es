@@ -16,10 +16,12 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 **QIII**||
 **QIV**|Redes Sociais|Redes Sociais
 
-> Eliminar Quadrante IV
-> Evitar Quadrante III
-> Reduzir Q
+## Principais lembretes
+
+- Eliminar Quadrante IV
+- Evitar Quadrante III
+- Reduzir Quadrante I
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjgwMTIwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzkyNzQ4MDE2LDczMDk5ODExNl19
 -->
