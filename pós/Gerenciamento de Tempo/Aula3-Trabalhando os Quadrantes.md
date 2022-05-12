@@ -21,7 +21,9 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 ### Eliminar Quadrante IV
 
 - Reflexão constante
-- Cuidado com os 
+- Cuidado com os ladrões de tempo, como televisão e redes sociais
+- Gestão de estresse para evitar fugas
+- Propósito pessoal/familiar
 
 ### Evitar Quadrante III
 
@@ -30,5 +32,5 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 ### Reduzir Quadrante I
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDg2OTM1Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDg1NDc3MTMsNzMwOTk4MTE2XX0=
 -->
