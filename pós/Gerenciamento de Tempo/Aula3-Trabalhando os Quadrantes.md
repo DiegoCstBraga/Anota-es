@@ -23,14 +23,17 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 - Reflexão constante
 - Cuidado com os ladrões de tempo, como televisão e redes sociais
 - Gestão de estresse para evitar fugas
-- Propósito pessoal/familiar
+- Propósito pessoal/familiar para ajudar a relembrar de sair das atividades ociosas
 
 ### Evitar Quadrante III
 
-
+- 
 
 ### Reduzir Quadrante I
 
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg1NDc3MTMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTc2OTYwMDY5MiwtMTI0ODU0NzcxMyw3Mz
+A5OTgxMTZdfQ==
 -->
