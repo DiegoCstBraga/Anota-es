@@ -33,11 +33,17 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 - Delegar (poder/autonomia)
 - Aprender a dizer não
 
+### Aprendendo a dizer não
+
+- Planejamento semanal como escudo
+- Tarefa que não será executada para atender essa demanda
+- Não usar o **talvez**~~strikethrough text~~
+
 ### Reduzir Quadrante I
 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyNjU4ODAsMTc2OTYwMDY5MiwtMT
-I0ODU0NzcxMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTM3MjM0ODUsLTIxNDIyNjU4ODAsMT
+c2OTYwMDY5MiwtMTI0ODU0NzcxMyw3MzA5OTgxMTZdfQ==
 -->
