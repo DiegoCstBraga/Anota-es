@@ -12,10 +12,14 @@ Principais atividade da semana nos quadrantes
 QUADRANTE|PROFISSIONAL|PESSOAL
 :-:|:-:|:-:
 **QI**|Fazer cursos da alura|
-**QII**||Fazer a pós, estudos paralelos
+**QII**||Fazer a pós, estudos paralelos, atividade física
 **QIII**||
-**QIV**||
+**QIV**|Redes Sociais|Redes Sociais
+
+> Eliminar Quadrante IV
+> Evitar Quadrante III
+> Reduzir Q
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg3ODE3NzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTEwNjgwMTIwMyw3MzA5OTgxMTZdfQ==
 -->
