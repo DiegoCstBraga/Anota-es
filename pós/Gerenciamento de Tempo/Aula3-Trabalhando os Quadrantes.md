@@ -39,6 +39,13 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 - Delegando
 - Cuidando dos relacionamentos
 
+### Focar Quadrante II
+
+- Metas e objetivos
+- Planejamento semanal
+- Relacionamentos como prioridade
+- Reflexão constante
+
 ### Aprendendo a dizer não
 
 - Planejamento semanal como escudo
@@ -50,10 +57,10 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 - **Reduzir** Quadrante I
 - **Evitar** Quadrante III
 - **Eliminar** Quadrante IV
-- 
+- **Focar** Quadrante II
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4ODQwODUwLDg0NzUyMzIzMCwxMzI2Nj
-cyMDksLTIxNDIyNjU4ODAsMTc2OTYwMDY5MiwtMTI0ODU0Nzcx
-Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY3NjYzMDAsODQ3NTIzMjMwLDEzMj
+Y2NzIwOSwtMjE0MjI2NTg4MCwxNzY5NjAwNjkyLC0xMjQ4NTQ3
+NzEzLDczMDk5ODExNl19
 -->
