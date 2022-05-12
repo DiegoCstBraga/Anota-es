@@ -27,13 +27,17 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 
 ### Evitar Quadrante III
 
-- 
+- Alinhamento profissional
+- Discussão de relacionamento (pessoal)
+- Esclarecer expectativas
+- Delegar (poder/autonomia)
+- Aprender a dizer não
 
 ### Reduzir Quadrante I
 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTYwMDY5MiwtMTI0ODU0NzcxMyw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDIyNjU4ODAsMTc2OTYwMDY5MiwtMT
+I0ODU0NzcxMyw3MzA5OTgxMTZdfQ==
 -->
