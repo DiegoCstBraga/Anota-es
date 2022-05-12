@@ -1,7 +1,11 @@
+# Trabalhando os Quadrantes
 
+Como está sendo dividio 
 
-
-> Written with [StackEdit](https://stackedit.io/).
+-|Urgente|Não Urgente
+-|-|-
+Importante||
+Não Importante||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY5MjQzMjk0Myw3MzA5OTgxMTZdfQ==
 -->
