@@ -35,7 +35,9 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 
 ### Reduzir Quadrante I
 
-- 
+- Planejamento semanal
+- Delegando
+- Cuidando dos relacionamentos
 
 ### Aprendendo a dizer não
 
@@ -45,7 +47,7 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI4NDY5MywxMzI2NjcyMDksLTIxND
-IyNjU4ODAsMTc2OTYwMDY5MiwtMTI0ODU0NzcxMyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbODQ3NTIzMjMwLDEzMjY2NzIwOSwtMjE0Mj
+I2NTg4MCwxNzY5NjAwNjkyLC0xMjQ4NTQ3NzEzLDczMDk5ODEx
+Nl19
 -->
