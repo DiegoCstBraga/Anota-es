@@ -7,8 +7,11 @@ Como está sendo dividido meu tempo nos quadrantes
 **Importante**|50%|20%
 **Não Importante**|30%|20%
 
+Principais atividade da semana nos quadrantes
+
+QUADRANTE|PROFISSIONAL|PESSOAL
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NDg3MDExLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg5MjQwMzg4Myw3MzA5OTgxMTZdfQ==
 -->
