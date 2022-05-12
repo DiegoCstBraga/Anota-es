@@ -1,13 +1,13 @@
 # Trabalhando os Quadrantes
 
-Como está sendo dividido meu tempo nos quadrantes
+## Como está sendo dividido meu tempo nos quadrantes
 
 -|Urgente|Não Urgente
 :-:|:-:|:-:
 **Importante**|50%|20%
 **Não Importante**|30%|20%
 
-Principais atividade da semana nos quadrantes
+## Principais atividade da semana nos quadrantes
 
 QUADRANTE|PROFISSIONAL|PESSOAL
 :-:|:-:|:-:
@@ -18,10 +18,17 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 
 ## Principais lembretes
 
-- Eliminar Quadrante IV
-- Evitar Quadrante III
-- Reduzir Quadrante I
+### Eliminar Quadrante IV
+
+- Reflexão constante
+- Cuidado com os 
+
+### Evitar Quadrante III
+
+
+
+### Reduzir Quadrante I
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNzQ4MDE2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA4NDg2OTM1Nyw3MzA5OTgxMTZdfQ==
 -->
