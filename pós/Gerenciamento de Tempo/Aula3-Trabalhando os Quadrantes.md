@@ -45,9 +45,15 @@ QUADRANTE|PROFISSIONAL|PESSOAL
 - Tarefa que não será executada para atender essa demanda
 - Não usar o **talvez**
 
+## Lembrar
+
+- **Reduzir** Quadrante I
+- **Evitar** Quadrante III
+- **Eliminar** Quadrante IV
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NTIzMjMwLDEzMjY2NzIwOSwtMjE0Mj
-I2NTg4MCwxNzY5NjAwNjkyLC0xMjQ4NTQ3NzEzLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbOTQ4ODQwODUwLDg0NzUyMzIzMCwxMzI2Nj
+cyMDksLTIxNDIyNjU4ODAsMTc2OTYwMDY5MiwtMTI0ODU0Nzcx
+Myw3MzA5OTgxMTZdfQ==
 -->
