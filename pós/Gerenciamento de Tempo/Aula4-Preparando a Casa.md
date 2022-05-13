@@ -4,10 +4,12 @@
 
 - Contatos
 	- Registrar telefone, email, aniversário, cargo
-	- estabelecer boa network
-	- cultivar vínculo fraco
-	- ser criteriosos com os contatos do linkedin e facebook
+	- Estabelecer boa network
+	- Cultivar vínculo fraco
+	- Ser criteriosos com os contatos do linkedin e facebook
 - Compromissos
+	- Anote-os em uma plataforma com lembretes
+	- 
 - Anotações
 - Tarefas
 
@@ -33,6 +35,7 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NjkxMTAsMTA2NDQ3MzkzNywtNjkzMD
-E1NzM0LC01NzMxNjU1Miw1MDU3NTA1NDBdfQ==
+eyJoaXN0b3J5IjpbNDczOTIyNDk4LDQ5ODY5MTEwLDEwNjQ0Nz
+M5MzcsLTY5MzAxNTczNCwtNTczMTY1NTIsNTA1NzUwNTQwXX0=
+
 -->
