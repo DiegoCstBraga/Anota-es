@@ -11,6 +11,7 @@
 	- Anote-os em uma plataforma com lembretes
 	- Compartilhar com pessoas envolvidas
 	- Anotar informações úteis/fundamentais para o compromisso
+	- Não registrar uma **Tarefa** como **Compromisso**
 - Anotações
 - Tarefas
 
@@ -36,7 +37,7 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzYxNjc3MSw0NzM5MjI0OTgsNDk4Nj
-kxMTAsMTA2NDQ3MzkzNywtNjkzMDE1NzM0LC01NzMxNjU1Miw1
-MDU3NTA1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3NzUyNTQ4NTAsMTc1MzYxNjc3MSw0Nz
+M5MjI0OTgsNDk4NjkxMTAsMTA2NDQ3MzkzNywtNjkzMDE1NzM0
+LC01NzMxNjU1Miw1MDU3NTA1NDBdfQ==
 -->
