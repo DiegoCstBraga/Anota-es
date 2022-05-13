@@ -13,6 +13,9 @@
 	- Anotar informações úteis/fundamentais para o compromisso
 	- Não registrar uma **Tarefa** como **Compromisso**
 - Anotações
+	- Organizar para acesso no futuro e evitar retrabalho
+	- Usar para projetos, pautas, dados etc
+	- 
 - Tarefas
 
 ## Estilos de anotações
@@ -37,7 +40,7 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzUyNTQ4NTAsMTc1MzYxNjc3MSw0Nz
-M5MjI0OTgsNDk4NjkxMTAsMTA2NDQ3MzkzNywtNjkzMDE1NzM0
-LC01NzMxNjU1Miw1MDU3NTA1NDBdfQ==
+eyJoaXN0b3J5IjpbMTY4MDY5MjM5NCwxNzUzNjE2NzcxLDQ3Mz
+kyMjQ5OCw0OTg2OTExMCwxMDY0NDczOTM3LC02OTMwMTU3MzQs
+LTU3MzE2NTUyLDUwNTc1MDU0MF19
 -->
