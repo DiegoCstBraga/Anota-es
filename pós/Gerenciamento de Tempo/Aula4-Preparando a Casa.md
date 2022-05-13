@@ -15,10 +15,10 @@
 
 ## Tipos de planejamento
 
-### Longo prazo
-
-Mais de um ano para realizar
+- **Longo prazo** = Mais de um ano para realizar (sem urgência QII)
+- **Médio prazo** = Menos de um ano para realizar (sem urgência QII)
+- **Curto prazo** = uma semana (QI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODUwOTk4OSwtNTczMTY1NTIsNTA1Nz
-UwNTQwXX0=
+eyJoaXN0b3J5IjpbLTEwNzUwMTI0MjksLTU3MzE2NTUyLDUwNT
+c1MDU0MF19
 -->
