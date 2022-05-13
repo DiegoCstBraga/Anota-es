@@ -6,10 +6,11 @@
 	- Registrar telefone, email, aniversário, cargo
 	- Estabelecer boa network
 	- Cultivar vínculo fraco
-	- Ser criteriosos com os contatos do linkedin e facebook
+	- Ser criteriosos com os contatos do LinkedIn e Facebook
 - Compromissos
 	- Anote-os em uma plataforma com lembretes
-	- 
+	- Compartilhar com pessoas envolvidas
+	- Anotar informações úteis/fundamentais para o compromisso
 - Anotações
 - Tarefas
 
@@ -35,7 +36,7 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczOTIyNDk4LDQ5ODY5MTEwLDEwNjQ0Nz
-M5MzcsLTY5MzAxNTczNCwtNTczMTY1NTIsNTA1NzUwNTQwXX0=
-
+eyJoaXN0b3J5IjpbMTc1MzYxNjc3MSw0NzM5MjI0OTgsNDk4Nj
+kxMTAsMTA2NDQ3MzkzNywtNjkzMDE1NzM0LC01NzMxNjU1Miw1
+MDU3NTA1NDBdfQ==
 -->
