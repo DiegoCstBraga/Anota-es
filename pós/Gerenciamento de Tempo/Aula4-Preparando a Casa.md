@@ -3,6 +3,9 @@
 ## Os 4 pilares da gestão do tempo
 
 - Contatos
+	- Registrar telefone, email, aniversário, cargo
+	- estabelecer boa network
+	- cultivar vínculo fraco
 - Compromissos
 - Anotações
 - Tarefas
@@ -29,6 +32,6 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzAxNTczNCwtNTczMTY1NTIsNTA1Nz
-UwNTQwXX0=
+eyJoaXN0b3J5IjpbMTA2NDQ3MzkzNywtNjkzMDE1NzM0LC01Nz
+MxNjU1Miw1MDU3NTA1NDBdfQ==
 -->
