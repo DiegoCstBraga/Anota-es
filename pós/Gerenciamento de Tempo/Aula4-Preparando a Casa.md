@@ -19,7 +19,6 @@
 	- Deixar bem definido o nome das anotações
 - Tarefas
 	- Registrar **todas** as tarefas importantes
-	- 
 
 ## Estilos de anotações
 
@@ -43,8 +42,8 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA4NjQ4MCwyODE4ODYyNywxNjgwNj
-kyMzk0LDE3NTM2MTY3NzEsNDczOTIyNDk4LDQ5ODY5MTEwLDEw
-NjQ0NzM5MzcsLTY5MzAxNTczNCwtNTczMTY1NTIsNTA1NzUwNT
-QwXX0=
+eyJoaXN0b3J5IjpbLTExNzc2MTQ3NzEsLTIwNDA4NjQ4MCwyOD
+E4ODYyNywxNjgwNjkyMzk0LDE3NTM2MTY3NzEsNDczOTIyNDk4
+LDQ5ODY5MTEwLDEwNjQ0NzM5MzcsLTY5MzAxNTczNCwtNTczMT
+Y1NTIsNTA1NzUwNTQwXX0=
 -->
