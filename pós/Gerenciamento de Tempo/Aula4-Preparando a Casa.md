@@ -16,7 +16,10 @@
 	- Organizar para acesso no futuro e evitar retrabalho
 	- Usar para projetos, pautas, dados etc
 	- Manter uma tarefa associada à anotação, se necessário
+	- Deixar bem definido o nome das anotações
 - Tarefas
+	- Registrar TODAS as tarefas importantes
+	- 
 
 ## Estilos de anotações
 
@@ -40,7 +43,8 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxODg2MjcsMTY4MDY5MjM5NCwxNzUzNj
-E2NzcxLDQ3MzkyMjQ5OCw0OTg2OTExMCwxMDY0NDczOTM3LC02
-OTMwMTU3MzQsLTU3MzE2NTUyLDUwNTc1MDU0MF19
+eyJoaXN0b3J5IjpbMzY5NjExMjE2LDI4MTg4NjI3LDE2ODA2OT
+IzOTQsMTc1MzYxNjc3MSw0NzM5MjI0OTgsNDk4NjkxMTAsMTA2
+NDQ3MzkzNywtNjkzMDE1NzM0LC01NzMxNjU1Miw1MDU3NTA1ND
+BdfQ==
 -->
