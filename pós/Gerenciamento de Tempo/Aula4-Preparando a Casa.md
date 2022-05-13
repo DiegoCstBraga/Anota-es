@@ -7,7 +7,8 @@
 - Anotações
 - Tarefas
 
-## 
+## Tipos de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzE2NTUyLDUwNTc1MDU0MF19
+eyJoaXN0b3J5IjpbMTk5MzczODAxNCwtNTczMTY1NTIsNTA1Nz
+UwNTQwXX0=
 -->
