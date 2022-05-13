@@ -20,9 +20,15 @@
 - **Curto prazo** = uma semana
 - **Curtíssimo prazo** = acompanhamento diário
 
+### Demonstração visual dos tipos de planejamentos
+
 Prazo | Objetivo | Atividade
--
+:-:|:-:|:-:
+Longo | Legado | Sonho
+Médio | Organizar rotinas |  Propósito
+Curto | Execução | Prazer
+Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODc1NzUwMSwtNTczMTY1NTIsNTA1Nz
+eyJoaXN0b3J5IjpbLTY5MzAxNTczNCwtNTczMTY1NTIsNTA1Nz
 UwNTQwXX0=
 -->
