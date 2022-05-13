@@ -17,8 +17,12 @@
 
 - **Longo prazo** = Mais de um ano para realizar (sem urgência QII)
 - **Médio prazo** = Menos de um ano para realizar (sem urgência QII)
-- **Curto prazo** = uma semana (QI)
+- **Curto prazo** = uma semana
+- **Curtíssimo prazo** = acompanhamento diário
+
+Prazo | Objetivo | Atividade
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUwMTI0MjksLTU3MzE2NTUyLDUwNT
-c1MDU0MF19
+eyJoaXN0b3J5IjpbMTQ2ODc1NzUwMSwtNTczMTY1NTIsNTA1Nz
+UwNTQwXX0=
 -->
