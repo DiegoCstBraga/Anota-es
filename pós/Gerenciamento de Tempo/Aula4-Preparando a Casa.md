@@ -6,6 +6,7 @@
 	- Registrar telefone, email, aniversário, cargo
 	- estabelecer boa network
 	- cultivar vínculo fraco
+	- ser criteriosos com os contatos do linkedin e facebook
 - Compromissos
 - Anotações
 - Tarefas
@@ -32,6 +33,6 @@ Médio | Organizar rotinas |  Propósito
 Curto | Execução | Prazer
 Curtíssimo | Verificação | Priorização
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDQ3MzkzNywtNjkzMDE1NzM0LC01Nz
-MxNjU1Miw1MDU3NTA1NDBdfQ==
+eyJoaXN0b3J5IjpbNDk4NjkxMTAsMTA2NDQ3MzkzNywtNjkzMD
+E1NzM0LC01NzMxNjU1Miw1MDU3NTA1NDBdfQ==
 -->
