@@ -34,12 +34,14 @@
 - Analise os compromissos da semana
 - Dimensione encontros e reuniões com as tarefas propostas para a semana
 - Reagende o que for necessário
+- Fique atendo às demandas de cada compromisso
+- Confirme os compromissos
 
 ### Passo 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTYzMjQ2MCwtNzI2MTY0MjEwLC00Nj
+eyJoaXN0b3J5IjpbMTM3NTMxMTA3MSwtNzI2MTY0MjEwLC00Nj
 k5MjA2NDAsLTI3NDU3MDIwM119
 -->
