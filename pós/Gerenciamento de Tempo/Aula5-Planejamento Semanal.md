@@ -32,13 +32,13 @@
 ### Passo 2
 
 - Analise os compromissos da semana
-- 
+- Dimensione encontros e reuniões com as tarefas propostas para a semana
 
 ### Passo 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTY4NTc5MCwtNzI2MTY0MjEwLC00Nj
-k5MjA2NDAsLTI3NDU3MDIwM119
+eyJoaXN0b3J5IjpbMzQ5MzczODQ3LC03MjYxNjQyMTAsLTQ2OT
+kyMDY0MCwtMjc0NTcwMjAzXX0=
 -->
