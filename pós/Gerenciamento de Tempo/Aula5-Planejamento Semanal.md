@@ -42,8 +42,8 @@
 - Defina as tarefas da semana
 - Dimensione a quantidade de tarefas com o tempo disponível
 - Adie para a próxima semana o que for necessário
-
+- Não planej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjE2NDAxNiwtNzI2MTY0MjEwLC00Nj
-k5MjA2NDAsLTI3NDU3MDIwM119
+eyJoaXN0b3J5IjpbLTEwMjQwODk1MSwxNzQ2MTY0MDE2LC03Mj
+YxNjQyMTAsLTQ2OTkyMDY0MCwtMjc0NTcwMjAzXX0=
 -->
