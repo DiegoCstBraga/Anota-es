@@ -23,22 +23,23 @@
 ### Passo 1
 
 - Reveja o planejamento da semana anterior
-- Registrar novas tarefas que ainda não foram anotadas
-- Eliminar as tarefas realizadas
-- Acompanhar as tarefas delegadas
-- Criar novos prazos para tarefas não concluídas
-- Reagendar compromissos não realizados
+- Registre novas tarefas que ainda não foram anotadas
+- Elimine as tarefas realizadas
+- Acompanhe as tarefas delegadas
+- Crie novos prazos para tarefas não concluídas
+- Reagende compromissos não realizados
 
 ### Passo 2
 
 - Analise os compromissos da semana
 - Dimensione encontros e reuniões com as tarefas propostas para a semana
+- Reagende o que for necessário
 
 ### Passo 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MzczODQ3LC03MjYxNjQyMTAsLTQ2OT
-kyMDY0MCwtMjc0NTcwMjAzXX0=
+eyJoaXN0b3J5IjpbLTIxNTYzMjQ2MCwtNzI2MTY0MjEwLC00Nj
+k5MjA2NDAsLTI3NDU3MDIwM119
 -->
