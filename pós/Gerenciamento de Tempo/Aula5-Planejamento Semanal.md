@@ -42,8 +42,9 @@
 - Defina as tarefas da semana
 - Dimensione a quantidade de tarefas com o tempo disponível
 - Adie para a próxima semana o que for necessário
-- Não planej
+- Não planeje 100% do tempo, por causa dos imprevistos
+- Estabeleça quais tarefas são prioritárias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQwODk1MSwxNzQ2MTY0MDE2LC03Mj
+eyJoaXN0b3J5IjpbMTg5MDYyMDM0MiwxNzQ2MTY0MDE2LC03Mj
 YxNjQyMTAsLTQ2OTkyMDY0MCwtMjc0NTcwMjAzXX0=
 -->
