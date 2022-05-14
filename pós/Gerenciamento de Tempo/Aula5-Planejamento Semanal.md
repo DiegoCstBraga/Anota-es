@@ -31,13 +31,14 @@
 
 ### Passo 2
 
-
+- Analise os compromissos da semana
+- 
 
 ### Passo 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI4NzMyMTMsLTcyNjE2NDIxMCwtND
-Y5OTIwNjQwLC0yNzQ1NzAyMDNdfQ==
+eyJoaXN0b3J5IjpbMTAxNTY4NTc5MCwtNzI2MTY0MjEwLC00Nj
+k5MjA2NDAsLTI3NDU3MDIwM119
 -->
