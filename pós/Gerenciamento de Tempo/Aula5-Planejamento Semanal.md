@@ -5,12 +5,16 @@
 - Pessoal
 	- Filho
 	- Neto
+	- Amigo
 - Profissional
 	- Analista de Sistemas
-	- Aluno
+- Estudante
+	- Aluno de pós
+	- Aluno de cursos
+- 
 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjY4OTc0OV19
+eyJoaXN0b3J5IjpbLTI3NDU3MDIwM119
 -->
