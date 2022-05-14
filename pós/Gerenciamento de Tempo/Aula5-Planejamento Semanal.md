@@ -22,7 +22,10 @@
 
 ### Passo 1
 
-Reveja o planejamento da semana anterior
+- Reveja o planejamento da semana anterior
+- Registrar novas tarefas que ainda não foram anotadas
+- Eliminar as tarefas realizadas
+- Acompanhar as tarefas delegadas
 
 ### Passo 2
 
@@ -33,6 +36,6 @@ Reveja o planejamento da semana anterior
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTU3MzA0NSwtNDY5OTIwNjQwLC0yNz
+eyJoaXN0b3J5IjpbLTcyNjE2NDIxMCwtNDY5OTIwNjQwLC0yNz
 Q1NzAyMDNdfQ==
 -->
