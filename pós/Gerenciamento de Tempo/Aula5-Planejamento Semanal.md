@@ -26,6 +26,8 @@
 - Registrar novas tarefas que ainda não foram anotadas
 - Eliminar as tarefas realizadas
 - Acompanhar as tarefas delegadas
+- Criar novos prazos para tarefas não concluídas
+- Reagendar compromissos não realizados
 
 ### Passo 2
 
@@ -36,6 +38,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjE2NDIxMCwtNDY5OTIwNjQwLC0yNz
-Q1NzAyMDNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDI4NzMyMTMsLTcyNjE2NDIxMCwtND
+Y5OTIwNjQwLC0yNzQ1NzAyMDNdfQ==
 -->
