@@ -39,9 +39,11 @@
 
 ### Passo 3
 
-
+- Defina as tarefas da semana
+- Dimensione a quantidade de tarefas com o tempo disponível
+- Adie para a próxima semana o que for necessário
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTMxMTA3MSwtNzI2MTY0MjEwLC00Nj
+eyJoaXN0b3J5IjpbMTc0NjE2NDAxNiwtNzI2MTY0MjEwLC00Nj
 k5MjA2NDAsLTI3NDU3MDIwM119
 -->
