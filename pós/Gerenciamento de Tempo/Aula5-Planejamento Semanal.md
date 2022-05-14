@@ -18,8 +18,21 @@
 	- Aluno de pós
 	- Aluno de cursos
 
-## 
+## Tutorial
+
+### Passo 1
+
+Reveja o planejamento da semana anterior
+
+### Passo 2
+
+
+
+### Passo 3
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTkyMDY0MCwtMjc0NTcwMjAzXX0=
+eyJoaXN0b3J5IjpbMTQ3MTU3MzA0NSwtNDY5OTIwNjQwLC0yNz
+Q1NzAyMDNdfQ==
 -->
