@@ -20,26 +20,23 @@
 
 ## Tutorial
 
-### Passo 1
+### Passo 1 - Reveja o planejamento da semana anterior
 
-- Reveja o planejamento da semana anterior
 - Registre novas tarefas que ainda não foram anotadas
 - Elimine as tarefas realizadas
 - Acompanhe as tarefas delegadas
 - Crie novos prazos para tarefas não concluídas
 - Reagende compromissos não realizados
 
-### Passo 2
+### Passo 2 - Analise os compromissos da semana
 
-- Analise os compromissos da semana
 - Dimensione encontros e reuniões com as tarefas propostas para a semana
 - Reagende o que for necessário
 - Fique atendo às demandas de cada compromisso
 - Confirme os compromissos
 
-### Passo 3
+### Passo 3 - Defina as tarefas da semana
 
-- Defina as tarefas da semana
 - Dimensione a quantidade de tarefas com o tempo disponível
 - Adie para a próxima semana o que for necessário
 - Não planeje 100% do tempo, por causa dos imprevistos
@@ -53,7 +50,7 @@
 - O que será realmente adiado?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA3OTU1NjcsMTEwNDgxOTAwMywxOD
-kwNjIwMzQyLDE3NDYxNjQwMTYsLTcyNjE2NDIxMCwtNDY5OTIw
-NjQwLC0yNzQ1NzAyMDNdfQ==
+eyJoaXN0b3J5IjpbODE0OTYyNTU5LC0xMTAwNzk1NTY3LDExMD
+Q4MTkwMDMsMTg5MDYyMDM0MiwxNzQ2MTY0MDE2LC03MjYxNjQy
+MTAsLTQ2OTkyMDY0MCwtMjc0NTcwMjAzXX0=
 -->
