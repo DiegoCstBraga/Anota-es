@@ -44,7 +44,9 @@
 - Adie para a próxima semana o que for necessário
 - Não planeje 100% do tempo, por causa dos imprevistos
 - Estabeleça quais tarefas são prioritárias
+- Distribua as tarefas nos dias da semana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDYyMDM0MiwxNzQ2MTY0MDE2LC03Mj
-YxNjQyMTAsLTQ2OTkyMDY0MCwtMjc0NTcwMjAzXX0=
+eyJoaXN0b3J5IjpbMTEwNDgxOTAwMywxODkwNjIwMzQyLDE3ND
+YxNjQwMTYsLTcyNjE2NDIxMCwtNDY5OTIwNjQwLC0yNzQ1NzAy
+MDNdfQ==
 -->
