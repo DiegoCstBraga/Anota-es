@@ -32,9 +32,10 @@
 - Defina horário de início e principalmente o de término
 - Envie os arquivos necessários
 - Comece **sempre** no horário
-- 
+- Eleja um mediador
+- Seja o mais sinérgico possível
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNjY3NDE2LC0xNDMwMDkxMzQ2LC00Mj
-MzMTU2NzYsLTEwMTU5NTQ2MjldfQ==
+eyJoaXN0b3J5IjpbLTk5NDQ1OTQ2MywtMTQzMDA5MTM0NiwtND
+IzMzE1Njc2LC0xMDE1OTU0NjI5XX0=
 -->
