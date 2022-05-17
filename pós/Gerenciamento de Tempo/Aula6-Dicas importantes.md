@@ -9,9 +9,12 @@
 - Use cópia oculta
 - Não apague e-mails, arquive-os
 - Separação de caixa de entrada entre lidas e não lidas
+- Crie apenas pastas necessárias
+- Crie uma pasta padrão para e-mails resolvidos
+- Crie grupos de destinatários
 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzA5OTcyMSwtMTAxNTk1NDYyOV19
+eyJoaXN0b3J5IjpbLTQyMzMxNTY3NiwtMTAxNTk1NDYyOV19
 -->
