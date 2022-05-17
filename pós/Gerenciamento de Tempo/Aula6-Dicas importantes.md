@@ -16,9 +16,11 @@
 - Não ligue nenhum notificador de e-mails
 - Não verifique a caixa o tempo todo
 
-## 
+## Escrevendo e-mails
+
+- O assunto deve ser compree
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjU2MTA1LC00MjMzMTU2NzYsLTEwMT
-U5NTQ2MjldfQ==
+eyJoaXN0b3J5IjpbLTkxNzMzOTUzOSwtNDIzMzE1Njc2LC0xMD
+E1OTU0NjI5XX0=
 -->
