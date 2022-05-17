@@ -21,8 +21,11 @@
 - O assunto deve ser compreensível
 - Não escreva e-mails longos (3 ou 4 parágrafos no máximo)
 - Dê espaço entre os parágrafos
+- Use tópicos numerados e marcadores
+- Leia o e-mail antes de enviá-lo
+- Evite "broncas" por e-mai
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczNDYzNTIsLTQyMzMxNTY3NiwtMT
-AxNTk1NDYyOV19
+eyJoaXN0b3J5IjpbMTYwNDQ1ODI2MiwtNDIzMzE1Njc2LC0xMD
+E1OTU0NjI5XX0=
 -->
