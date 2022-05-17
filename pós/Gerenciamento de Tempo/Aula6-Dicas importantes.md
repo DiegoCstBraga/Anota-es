@@ -28,9 +28,13 @@
 ## Gestão de reuniões
 
 - Defina pauta
-- Selecione os perse
+- Selecione os presentes
+- Defina horário de início e principalmente o de término
+- Envie os arquivos necessários
+- Comece **sempre** no horário
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2OTY3ODAsLTE0MzAwOTEzNDYsLT
-QyMzMxNTY3NiwtMTAxNTk1NDYyOV19
+eyJoaXN0b3J5IjpbNTUxNjY3NDE2LC0xNDMwMDkxMzQ2LC00Mj
+MzMTU2NzYsLTEwMTU5NTQ2MjldfQ==
 -->
