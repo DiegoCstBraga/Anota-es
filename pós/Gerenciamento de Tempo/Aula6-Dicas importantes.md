@@ -25,7 +25,12 @@
 - Leia o e-mail antes de enviá-lo
 - Evite "broncas" por e-mail
 
+## Gestão de reuniões
+
+- Defina pauta
+- Selecione os perse
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAwOTEzNDYsLTQyMzMxNTY3NiwtMT
-AxNTk1NDYyOV19
+eyJoaXN0b3J5IjpbLTE1MjY2OTY3ODAsLTE0MzAwOTEzNDYsLT
+QyMzMxNTY3NiwtMTAxNTk1NDYyOV19
 -->
