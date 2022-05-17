@@ -35,7 +35,14 @@
 - Eleja um mediador
 - Seja o mais sinérgico possível
 
+## Dicas para delegar
+
+- Lute o tempo todo contra a centralização
+- Forme sempre um substituto
+- Valorize toda a equipe
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDQ1OTQ2MywtMTQzMDA5MTM0NiwtND
-IzMzE1Njc2LC0xMDE1OTU0NjI5XX0=
+eyJoaXN0b3J5IjpbLTE2MDk2MDI3NjgsLTk5NDQ1OTQ2MywtMT
+QzMDA5MTM0NiwtNDIzMzE1Njc2LC0xMDE1OTU0NjI5XX0=
 -->
