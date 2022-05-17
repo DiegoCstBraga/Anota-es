@@ -12,11 +12,13 @@
 - Crie apenas pastas necessárias
 - Crie uma pasta padrão para e-mails resolvidos
 - Crie grupos de destinatários
-- Defina horários para "zerar"
+- Defina horários para "zerar" a caixa de entrada
+- Não ligue nenhum notificador de e-mails
+- Não verifique a caixa o tempo todo
 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNTMwMywtNDIzMzE1Njc2LC0xMDE1OT
-U0NjI5XX0=
+eyJoaXN0b3J5IjpbMTkxNjU2MTA1LC00MjMzMTU2NzYsLTEwMT
+U5NTQ2MjldfQ==
 -->
