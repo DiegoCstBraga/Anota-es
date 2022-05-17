@@ -23,9 +23,9 @@
 - Dê espaço entre os parágrafos
 - Use tópicos numerados e marcadores
 - Leia o e-mail antes de enviá-lo
-- Evite "broncas" por e-mai
+- Evite "broncas" por e-mail
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDQ1ODI2MiwtNDIzMzE1Njc2LC0xMD
-E1OTU0NjI5XX0=
+eyJoaXN0b3J5IjpbLTE0MzAwOTEzNDYsLTQyMzMxNTY3NiwtMT
+AxNTk1NDYyOV19
 -->
