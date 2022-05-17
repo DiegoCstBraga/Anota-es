@@ -40,9 +40,13 @@
 - Lute o tempo todo contra a centralização
 - Forme sempre um substituto
 - Valorize toda a equipe
-- 
+- Defina escopo e expectativas
+- Não esqueça tarefas delegadas
+- A corda não arrebenta no lugar mais fraco
+- Feedback constante
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk2MDI3NjgsLTk5NDQ1OTQ2MywtMT
-QzMDA5MTM0NiwtNDIzMzE1Njc2LC0xMDE1OTU0NjI5XX0=
+eyJoaXN0b3J5IjpbMTk4NTgxMTEwNSwtMTYwOTYwMjc2OCwtOT
+k0NDU5NDYzLC0xNDMwMDkxMzQ2LC00MjMzMTU2NzYsLTEwMTU5
+NTQ2MjldfQ==
 -->
