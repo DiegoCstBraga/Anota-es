@@ -12,9 +12,11 @@
 - Crie apenas pastas necessárias
 - Crie uma pasta padrão para e-mails resolvidos
 - Crie grupos de destinatários
+- Defina horários para "zerar"
 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzMxNTY3NiwtMTAxNTk1NDYyOV19
+eyJoaXN0b3J5IjpbNzYxNTMwMywtNDIzMzE1Njc2LC0xMDE1OT
+U0NjI5XX0=
 -->
