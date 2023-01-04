@@ -10,7 +10,6 @@ Curto Prazo
 Médio Prazo
 
 - Relacionado à anos
-- 
 
 Longo Prazo
 
@@ -56,5 +55,5 @@ Também pode ser considerado como o quadrante de ação "zumbi", onde a pessoa s
 Quadrante ideal, serve para executar as atividades do seu interesse sem a pressão do tempo, trazendo um retorno "melhor" e mais saudável.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MTgwNjIyXX0=
+eyJoaXN0b3J5IjpbMTYzMjgyNDI3NSw1MTUxODA2MjJdfQ==
 -->
