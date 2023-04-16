@@ -8,7 +8,7 @@
 - Adicionar mais regulamentação pode gerar problemas paras as empresas grandes
 - Vem ganhando peso a necessidade de fiscalizar as big four (Google, Amazon, Facebook, Apple)
 - As big4 possuem muitos dados e infomações de pessoas de todo o mundo, além de poderem conectar e vender essas informações pessoais
-- Elas acabam atuando como Juiz e Interessado devido, sendo difícil de controlar com a legislação existente
+- Elas acabam atuando como Juiz e Interessado, sendo difícil de controlar com a legislação existente
 - É necessário regular essas empresas, igual ocorreu no setor ferroviário, telecom e energia. Com a tecnologia atual
 - empresas novas de tecnologia podem crescer muito rápido e assim dominar um nicho não abrindo espaço para outros competidores
 - Ideia de fragmentar as big techs
@@ -37,5 +37,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDk4OTUzMF19
+eyJoaXN0b3J5IjpbODU2OTk1MjQxLDEyNjQ5ODk1MzBdfQ==
 -->
