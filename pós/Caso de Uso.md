@@ -31,16 +31,15 @@
 - Microsoft e Google usam o sistema operacional e o de busca para priorizar seu produtos
 - Amazon e Apple dão ênfase em seus produtos, eliminando produtos concorrentes, dados dos clientes para influenciar na decisão de compra
 - Cambridge Analytica analisava e criava modelos voltados para vários perfis e divulgava para o usuário com perfil mais semelhante, influenciando na decisão em campanhas políticas
-- Discussão sobre o que é ou não fake news, visto que por ser uma democracia, o ato de proibir essas notícias poderia ser considerada como "censura"
-- DIscussão para definir o que é ou não fake news é um dilema dos tempo atuais sendo debatido no mundo todo
+- Discussão para definir o que é ou não fake news é um dilema dos tempo atuais sendo debatido no mundo todo
 - Por serem empresas, elas não se preocupam com as informações falsas, visto que gera engajamento e consequentemente lucro
-- 
+- Alegado que Apple e Google não aceitam ideias opostas ou discussões que não
 
 ## Na crise...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNzQ2NzgyLDEzNzkwNjU4MzksODU2OT
-k1MjQxLDEyNjQ5ODk1MzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTU1OTkwMjUsNzkzNzQ2NzgyLDEzNz
+kwNjU4MzksODU2OTk1MjQxLDEyNjQ5ODk1MzBdfQ==
 -->
