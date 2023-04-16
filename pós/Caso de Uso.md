@@ -34,13 +34,14 @@
 - Discussão para definir o que é ou não fake news é um dilema dos tempo atuais sendo debatido no mundo todo
 - Por serem empresas, elas não se preocupam com as informações falsas, visto que gera engajamento e consequentemente lucro
 - Alegado que Apple e Google não aceitam ideias opostas ou discussões que não podem dominar
-- Governos 
+- Governos tem formas de regularizar, como a lei anti monopólio, proteção de dados e questão fiscal
+- 
 
 ## Na crise...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQ1MTkxNiw3OTM3NDY3ODIsMTM3OT
+eyJoaXN0b3J5IjpbMTQyNTM2NzQ0MSw3OTM3NDY3ODIsMTM3OT
 A2NTgzOSw4NTY5OTUyNDEsMTI2NDk4OTUzMF19
 -->
