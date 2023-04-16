@@ -3,11 +3,11 @@
 ## Quebrar oligopólio
 
 - Khan diz para Investigar influência excessiva das Big4, mesmo com clientes satisfeitos com o serviço e preço
-- Big4 com vantagens agressivas, obrigando negócios independentes a utilizarem seus seviços
+- Big4 com vantagens agressivas, obrigando negócios independentes a utilizarem seus serviços
 - Opositores de Khan destacam que a Amazon contribuiu bastante para a economia americana e foi uma grande inovadora
 - Adicionar mais regulamentação pode gerar problemas paras as empresas grandes
 - Vem ganhando peso a necessidade de fiscalizar as big four (Google, Amazon, Facebook, Apple)
-- As big4 possuem muitos dados e infomações de pessoas de todo o mundo, além de poderem conectar e vender essas informações pessoais
+- As big4 possuem muitos dados e informações de pessoas de todo o mundo, além de poderem conectar e vender essas informações pessoais
 - Elas acabam atuando como Juiz e Interessado, sendo difícil de controlar com a legislação existente
 - É necessário regular essas empresas, igual ocorreu no setor ferroviário, telecom e energia. Com a tecnologia atual
 - empresas novas de tecnologia podem crescer muito rápido e assim dominar um nicho, não abrindo espaço para outros competidores
@@ -27,19 +27,20 @@
 
 - Escalaram de forma rápido e dinâmica, criando um amplo domínio do mercado atuante
 - Mudança no comportamento e decisões das pessoas
-- facebook usa dados para prever atos das empresas concorrentes, com o objetivo de eliminá-las
+- Facebook usa dados para prever atos das empresas concorrentes, com o objetivo de eliminá-las
 - Microsoft e Google usam o sistema operacional e o de busca para priorizar seu produtos
 - Amazon e Apple dão ênfase em seus produtos, eliminando produtos concorrentes, dados dos clientes para influenciar na decisão de compra
 - Cambridge Analytica analisava e criava modelos voltados para vários perfis e divulgava para o usuário com perfil mais semelhante, influenciando na decisão em campanhas políticas
 - Discussão para definir o que é ou não fake news é um dilema dos tempo atuais sendo debatido no mundo todo
 - Por serem empresas, elas não se preocupam com as informações falsas, visto que gera engajamento e consequentemente lucro
-- Alegado que Apple e Google não aceitam ideias opostas ou discussões que não
+- Alegado que Apple e Google não aceitam ideias opostas ou discussões que não podem dominar
+- Governos 
 
 ## Na crise...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU1OTkwMjUsNzkzNzQ2NzgyLDEzNz
-kwNjU4MzksODU2OTk1MjQxLDEyNjQ5ODk1MzBdfQ==
+eyJoaXN0b3J5IjpbLTgzMzQ1MTkxNiw3OTM3NDY3ODIsMTM3OT
+A2NTgzOSw4NTY5OTUyNDEsMTI2NDk4OTUzMF19
 -->
