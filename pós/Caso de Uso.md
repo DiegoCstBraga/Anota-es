@@ -30,13 +30,14 @@
 - facebook usa dados para prever atos das empresas concorrentes, com o objetivo de eliminá-las
 - Microsoft e Google usam o sistema operacional e o de busca para priorizar seu produtos
 - Amazon e Apple dão ênfase em seus produtos, eliminando produtos concorrentes, dados dos clientes para influenciar na decisão de compra
-- Cambridge Analytica analisava criava campanhas voltadas para vários perfis e divulgava para o usuário com perfil mais semelhante, influenciando na 
+- Cambridge Analytica analisava e criava modelos voltados para vários perfis e divulgava para o usuário com perfil mais semelhante, influenciando na decisão em campanhas políticas
+- Discussão sobre o que é ou não fake news, visto que por ser uma democr
 
 ## Na crise...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTMzMDI5MCwxMzc5MDY1ODM5LDg1Nj
-k5NTI0MSwxMjY0OTg5NTMwXX0=
+eyJoaXN0b3J5IjpbODczMDU0NDA5LDEzNzkwNjU4MzksODU2OT
+k1MjQxLDEyNjQ5ODk1MzBdfQ==
 -->
