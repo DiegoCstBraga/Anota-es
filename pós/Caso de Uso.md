@@ -32,13 +32,15 @@
 - Amazon e Apple dão ênfase em seus produtos, eliminando produtos concorrentes, dados dos clientes para influenciar na decisão de compra
 - Cambridge Analytica analisava e criava modelos voltados para vários perfis e divulgava para o usuário com perfil mais semelhante, influenciando na decisão em campanhas políticas
 - Discussão sobre o que é ou não fake news, visto que por ser uma democracia, o ato de proibir essas notícias poderia ser considerada como "censura"
-- DIscussão para definir o que é ou não fake news é um dilema dos tempo atuais discutido
+- DIscussão para definir o que é ou não fake news é um dilema dos tempo atuais sendo debatido no mundo todo
+- Por serem empresas, elas não se preocupam com as informações falsas, visto que gera engajamento e consequentemente lucro
+- 
 
 ## Na crise...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mzg4MzQxMywxMzc5MDY1ODM5LDg1Nj
-k5NTI0MSwxMjY0OTg5NTMwXX0=
+eyJoaXN0b3J5IjpbNzkzNzQ2NzgyLDEzNzkwNjU4MzksODU2OT
+k1MjQxLDEyNjQ5ODk1MzBdfQ==
 -->
