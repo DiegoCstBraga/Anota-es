@@ -35,6 +35,7 @@
 - Por serem empresas, elas não se preocupam com as informações falsas, visto que gera engajamento e consequentemente lucro
 - Alegado que Apple e Google não aceitam ideias opostas ou discussões que não podem dominar
 - Governos tem formas de regularizar, como a lei anti monopólio, proteção de dados e questão fiscal
+- Comissão antitruste sugere proibir das plataformas dominantes trabalharem em outras áreas
 - 
 
 ## Na crise...
@@ -42,6 +43,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTM2NzQ0MSw3OTM3NDY3ODIsMTM3OT
-A2NTgzOSw4NTY5OTUyNDEsMTI2NDk4OTUzMF19
+eyJoaXN0b3J5IjpbLTE5ODE5NDcxNDQsNzkzNzQ2NzgyLDEzNz
+kwNjU4MzksODU2OTk1MjQxLDEyNjQ5ODk1MzBdfQ==
 -->
