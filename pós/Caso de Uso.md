@@ -44,9 +44,9 @@
 - Microsoft investiu no uso de IA no setor da saúde
 - "Data for Good" é uma iniciativa da Meta utilizada durante a pandemia para mitigar os danos da crise sanitária
 - Apple e Google trabalharam num sistema que rastreava pessoas infectadas
-- 
+- Google e Apple investem bastante na área da saúde, para obter informações dos usuários e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDk3NDY3NSwtMTk4MTk0NzE0NCw3OT
+eyJoaXN0b3J5IjpbLTY3ODQwNDkwNiwtMTk4MTk0NzE0NCw3OT
 M3NDY3ODIsMTM3OTA2NTgzOSw4NTY5OTUyNDEsMTI2NDk4OTUz
 MF19
 -->
