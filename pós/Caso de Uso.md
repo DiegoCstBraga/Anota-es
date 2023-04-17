@@ -40,9 +40,11 @@
 
 ## Na crise...
 
-
-
+- Mesmo com a pandemia, as big techs registraram lucros e crescimento no mercado
+- Microsoft investiu no uso de IA no setor da saúde
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE5NDcxNDQsNzkzNzQ2NzgyLDEzNz
-kwNjU4MzksODU2OTk1MjQxLDEyNjQ5ODk1MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzkzNzQ0MzYsLTE5ODE5NDcxNDQsNz
+kzNzQ2NzgyLDEzNzkwNjU4MzksODU2OTk1MjQxLDEyNjQ5ODk1
+MzBdfQ==
 -->
