@@ -61,7 +61,7 @@ Substituir um valor por outro|`string.replace('nome1','nome2')`|Aceita RegEx
 Pegar o último caractere de um valor|`string.slice(-1)`|
 Retornar um valor exceto a última letra|`string.slice(0,-1)`|
 Retornar um valor a partir da segunda letra|`string.slice(1)`|
-Retornar uma quantidade n de valores a partir de uma posição|`string.substr(0,3)`|
+Retornar uma quantidade n de valores a partir de uma posição|`string.substring(0,3)`|
 
 ---
 
@@ -704,5 +704,5 @@ Gerar tabela de dados no console|`console.table(['Digital Innovation', 'Diego Br
 Retornar uma mensagem do console caso uma condição seja falsa|`console.assert(1 === 2, 'Error')`
 Estilizar o console|`console.log('%c log estilizado', 'color: green; font-size? 20px')`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NTU0MTg4XX0=
+eyJoaXN0b3J5IjpbLTQ3NzY1MTQ4NCw2NDQ1NTQxODhdfQ==
 -->
