@@ -6,7 +6,7 @@ Para acessá-las, entre no link [https://diegocstbraga.github.io/my-notes](https
 
 ## Tópicos
 
-- [Terminal](#Terminal#git-github)
+- [Terminal](./Terminal/git-github.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODY3MjMsMTIwMjk4NzUxXX0=
+eyJoaXN0b3J5IjpbMTY2NTIyMjQ4NiwxMjAyOTg3NTFdfQ==
 -->
