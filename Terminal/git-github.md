@@ -1,6 +1,6 @@
 ﻿# Git e Github
 
-[Voltar para o início](./README.md)
+[Voltar para o início](../README.md)
 
 ## Git
 
@@ -178,5 +178,5 @@ Visualizar commits por palavras específicas
 git log --grep="bugfix"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzY2MzI1M119
+eyJoaXN0b3J5IjpbMTU5OTg0NTQ3MywtNTY3NjYzMjUzXX0=
 -->
