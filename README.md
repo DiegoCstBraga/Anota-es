@@ -1,12 +1,10 @@
-# Minhas anotações 📋
+# Personal Knowledge Base
 
-Esse repositório tem como principal objetivo armazenar minhas anotações que faço utilizando markdown.
+This repo is my Personal Knowledge Base, where I share my knowledge mainly about Programming and other stuffs I'm interested
 
-Para acessá-las, entre no link [https://diegocstbraga.github.io/my-notes](https://diegocstbraga.github.io/my-notes)
+To access the original font, access [https://diegocstbraga.github.io/my-notes](https://diegocstbraga.github.io/my-notes)
 
-## Tópicos
+## Topics
 
-- [Terminal](./Terminal/git-github.md)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTIyMjQ4NiwxMjAyOTg3NTFdfQ==
--->
+- [Academic](./academic/)
+- [Programming](./programming)
